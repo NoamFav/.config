@@ -6,6 +6,7 @@ jgit/
 github-copilot/
 fontforge/
 iterm2/
+shell-color-scripts/
 
 .DS_store
 **/.git
