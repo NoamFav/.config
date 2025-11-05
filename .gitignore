@@ -1,0 +1,10 @@
+HKModInstaller/
+gh-dash/
+gh/
+git/
+jgit/
+github-copilot/
+fontforge/
+iterm2/
+
+.DS_store
