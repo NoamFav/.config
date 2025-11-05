@@ -1,3 +1,10 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/NoamFav/nvim-config
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/NoamFav/Zsh
+[submodule "sketchybar"]
+	path = sketchybar
+	url = https://github.com/NoamFav/sketchybar
+
