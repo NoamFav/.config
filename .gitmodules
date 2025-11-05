@@ -8,3 +8,6 @@
 	path = sketchybar
 	url = https://github.com/NoamFav/sketchybar
 
+[submodule "aerospace"]
+	path = aerospace
+	url = https://github.com/NoamFav/aerospace
