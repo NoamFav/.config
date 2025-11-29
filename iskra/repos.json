@@ -382,8 +382,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "b415cf484f1bd18436029ec665531a286fbc275b",
-    "last_updated": "2025-11-30T00:18:23.422101",
+    "last_commit": "ca92bcbd56addadb9743431f1da7752b410c2bcc",
+    "last_updated": "2025-11-30T00:18:49.093078",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -391,8 +391,8 @@
     "name": "nvim",
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
-    "last_commit": "933a4a5544ec0b7195f05f7e553a7efb256c6ebb",
-    "last_updated": "2025-11-30T00:18:03.398769",
+    "last_commit": "6f781bf9103f9587d433eb3b1a3c8b5e71dae400",
+    "last_updated": "2025-11-30T00:18:52.227593",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -400,8 +400,8 @@
     "name": "zsh",
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
-    "last_commit": "3626021af34340867f9b8b646a8e1c9d4f288275",
-    "last_updated": "2025-11-30T00:18:17.069115",
+    "last_commit": "7aabd2792a5e18f200a4253074f2cb814e31c3b7",
+    "last_updated": "2025-11-30T00:18:54.103749",
     "active": true
   }
 }
