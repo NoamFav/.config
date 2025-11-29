@@ -1,0 +1,11 @@
+# --- Personal Profile (personal-config.yaml) ---
+base_dir: ~/Personal
+use_ai_commit: true
+commit_message_style: simple
+require_confirmation: false
+protected_branches:
+  - main
+
+exclude_patterns:
+  - work-*
+  - client-*

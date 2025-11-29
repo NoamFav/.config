@@ -1,0 +1,30 @@
+base_dir: /Users/noamfavier/Neoware
+config_dir: ~/.auto-commit
+max_depth: 3
+follow_symlinks: true
+exclude_patterns:
+- tmp-*
+- test-*
+- backup-*
+only_patterns: []
+default_branch: main
+protected_branches:
+- main
+- master
+- production
+- release
+auto_pull: false
+auto_push: true
+use_ai_commit: true
+commit_message_style: conventional
+ai_provider: ollama
+require_confirmation: false
+require_confirmation_for_protected: true
+dry_run: false
+show_diff: false
+verbose: false
+use_rich_ui: true
+skip_repos_without_changes: false
+skip_repos_ahead_of_remote: false
+handle_gitignore: false
+remove_ds_store: false

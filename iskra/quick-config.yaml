@@ -1,0 +1,9 @@
+# --- Quick Profile (quick-config.yaml) ---
+# For rapid commits without confirmation
+base_dir: ~/Neoware
+use_ai_commit: true
+require_confirmation: false
+require_confirmation_for_protected: false
+auto_pull: true
+auto_push: true
+dry_run: false
