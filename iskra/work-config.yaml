@@ -1,0 +1,14 @@
+# --- Work Profile (work-config.yaml) ---
+base_dir: ~/Work/Projects
+use_ai_commit: true
+commit_message_style: conventional
+require_confirmation: true
+protected_branches:
+  - main
+  - develop
+  - staging
+  - production
+
+exclude_patterns:
+  - personal-*
+  - tmp-*
