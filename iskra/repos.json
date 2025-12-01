@@ -373,8 +373,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "85730c56cf9c7666e53af29e60d96ec7953f0a86",
-    "last_updated": "2025-11-30T23:30:13.583931",
+    "last_commit": "393c19af975f41c62d57ab7762e2987c77abe17e",
+    "last_updated": "2025-12-01T12:10:29.745994",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -383,7 +383,7 @@
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
     "last_commit": "6f781bf9103f9587d433eb3b1a3c8b5e71dae400",
-    "last_updated": "2025-11-30T23:30:13.675915",
+    "last_updated": "2025-12-01T12:10:29.840963",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -392,7 +392,7 @@
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
     "last_commit": "59449b40370446a0ff0f9fc68f28ab7c0d6e91ca",
-    "last_updated": "2025-11-30T23:30:15.635332",
+    "last_updated": "2025-12-01T12:10:29.927943",
     "active": true
   },
   "/Users/noamfavier/.config/sketchybar": {
@@ -401,7 +401,7 @@
     "remote_url": "https://github.com/NoamFav/sketchybar",
     "default_branch": "main",
     "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2025-11-30T23:30:15.730624",
+    "last_updated": "2025-12-01T12:10:30.014099",
     "active": true
   },
   "/Users/noamfavier/.config/aerospace": {
@@ -410,7 +410,7 @@
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
     "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2025-11-30T23:30:15.818572",
+    "last_updated": "2025-12-01T12:10:30.096776",
     "active": true
   }
 }
