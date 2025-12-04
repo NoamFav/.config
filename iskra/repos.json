@@ -5,7 +5,7 @@
     "remote_url": "https://github.com/NoamFav/RepoOps.git",
     "default_branch": "main",
     "last_commit": "721097d8b2cfccf5efc3ebc7abbf229ee7ca4136",
-    "last_updated": "2025-12-01T12:10:20.995529",
+    "last_updated": "2025-12-04T17:33:38.439908",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Astrotop": {
@@ -14,7 +14,7 @@
     "remote_url": "https://github.com/NoamFav/Astrotop.git",
     "default_branch": "main",
     "last_commit": "2c6a78fd17780534fb53b301dc2265f68e6e34ff",
-    "last_updated": "2025-12-01T12:10:21.076594",
+    "last_updated": "2025-12-04T17:33:38.537561",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Briz": {
@@ -23,7 +23,7 @@
     "remote_url": "https://github.com/NoamFav/Briz.git",
     "default_branch": "main",
     "last_commit": "78068aa10d0e49107d6fe3a490a63a815b5ed31e",
-    "last_updated": "2025-12-01T12:10:21.158256",
+    "last_updated": "2025-12-04T17:33:38.633193",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Derevo": {
@@ -32,7 +32,7 @@
     "remote_url": "https://github.com/NoamFav/Derevo.git",
     "default_branch": "main",
     "last_commit": "8bd1e20f80cc03051b115fa4e508afb526f046f8",
-    "last_updated": "2025-12-01T12:10:21.241978",
+    "last_updated": "2025-12-04T17:33:38.729311",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/GymBuddy": {
@@ -41,7 +41,7 @@
     "remote_url": "https://github.com/NoamFav/GymBuddy.git",
     "default_branch": "main",
     "last_commit": "24ba2c5c62d99f237c88ffedf7c2cf7a3cf1ef8a",
-    "last_updated": "2025-12-01T12:10:21.333768",
+    "last_updated": "2025-12-04T17:33:38.829833",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iris": {
@@ -50,7 +50,7 @@
     "remote_url": "https://github.com/NoamFav/Iris.git",
     "default_branch": "main",
     "last_commit": "49c4afe0e1909b8281b5326b76f59bcb535f908f",
-    "last_updated": "2025-12-01T12:10:21.422467",
+    "last_updated": "2025-12-04T17:33:38.930523",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iskra": {
@@ -58,8 +58,8 @@
     "name": "Iskra",
     "remote_url": "https://github.com/NoamFav/Iskra.git",
     "default_branch": "main",
-    "last_commit": "a2c2725e7e891753d20d0836a5743066e7f9adb5",
-    "last_updated": "2025-12-01T12:10:21.546996",
+    "last_commit": "3efc478be029fff9c8d17c1f0c954852b9fd3995",
+    "last_updated": "2025-12-04T17:33:43.624736",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Puls": {
@@ -68,7 +68,7 @@
     "remote_url": "https://github.com/NoamFav/Puls.git",
     "default_branch": "main",
     "last_commit": "74afcee67fa17101f8a4e93d5ee9b2c94dfb9584",
-    "last_updated": "2025-12-01T12:10:21.647274",
+    "last_updated": "2025-12-04T17:33:43.743525",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Setka": {
@@ -76,8 +76,8 @@
     "name": "Setka",
     "remote_url": "https://github.com/NoamFav/Setka.git",
     "default_branch": "main",
-    "last_commit": "9b168000695a8d37d8d2e0551b53273305890aeb",
-    "last_updated": "2025-12-01T12:10:21.737121",
+    "last_commit": "ff8ec174409fd88aa26c513587b5a661ce22a77f",
+    "last_updated": "2025-12-04T17:33:43.838007",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Vektor": {
@@ -86,7 +86,7 @@
     "remote_url": "https://github.com/NoamFav/Vektor.git",
     "default_branch": "main",
     "last_commit": "79578bf3411f0389d5c1253d696e169d26a81d5a",
-    "last_updated": "2025-12-01T12:10:21.821983",
+    "last_updated": "2025-12-04T17:33:43.937091",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Zvezda": {
@@ -95,7 +95,7 @@
     "remote_url": "https://github.com/NoamFav/Zvezda",
     "default_branch": "main",
     "last_commit": "1b104c293bac66cb9fb15c75f391403ec5b300de",
-    "last_updated": "2025-12-01T12:10:21.907701",
+    "last_updated": "2025-12-04T17:33:44.034504",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/nyancat": {
@@ -104,7 +104,7 @@
     "remote_url": "https://github.com/NoamFav/nyancat.git",
     "default_branch": "master",
     "last_commit": "ea10005c4d1198c896a7c0769fdeaee4840675fc",
-    "last_updated": "2025-12-01T12:10:21.989480",
+    "last_updated": "2025-12-04T17:33:44.129888",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/BitVoyager": {
@@ -113,7 +113,7 @@
     "remote_url": "https://github.com/NoamFav/BitVoyager.git",
     "default_branch": "main",
     "last_commit": "2d1b2b4b6ec9cecca7e1f05781a54b422ec3af6a",
-    "last_updated": "2025-12-01T12:10:22.075676",
+    "last_updated": "2025-12-04T17:33:44.227859",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/HTML": {
@@ -122,7 +122,7 @@
     "remote_url": "https://github.com/NoamFav/HTML",
     "default_branch": "main",
     "last_commit": "ec7fbb38155b5d9907b305812393da6a8b2c89e7",
-    "last_updated": "2025-12-01T12:10:22.161254",
+    "last_updated": "2025-12-04T17:33:44.324783",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/NF-Software": {
@@ -131,7 +131,7 @@
     "remote_url": "https://github.com/NoamFav/NF-Software",
     "default_branch": "main",
     "last_commit": "63729c758c65532197d2430da6683fee5533929b",
-    "last_updated": "2025-12-01T12:10:22.250273",
+    "last_updated": "2025-12-04T17:33:44.428075",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/Psycho": {
@@ -140,7 +140,7 @@
     "remote_url": "https://github.com/NoamFav/Psycho.git",
     "default_branch": "main",
     "last_commit": "204b73662fca8f9c554056662822ae412cdad8df",
-    "last_updated": "2025-12-01T12:10:22.338743",
+    "last_updated": "2025-12-04T17:33:44.549834",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/Resume": {
@@ -149,7 +149,7 @@
     "remote_url": "https://github.com/NoamFav/Resume",
     "default_branch": "main",
     "last_commit": "a9a24d7dd70f03f7d6fc53aa0ffff7e480adff8c",
-    "last_updated": "2025-12-01T12:10:22.422353",
+    "last_updated": "2025-12-04T17:33:44.663660",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/coast": {
@@ -158,7 +158,7 @@
     "remote_url": "https://github.com/NoamFav/coast",
     "default_branch": "main",
     "last_commit": "b94049015701c673030adaa5a823c5b13222ba9b",
-    "last_updated": "2025-12-01T12:10:22.519860",
+    "last_updated": "2025-12-04T17:33:44.777551",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/thynkly_web": {
@@ -167,7 +167,7 @@
     "remote_url": "https://github.com/NoamFav/thynkly_web.git",
     "default_branch": "main",
     "last_commit": "ab2f7b4c771a38430c7bcf963910ef8e60d57ae9",
-    "last_updated": "2025-12-01T12:10:22.615833",
+    "last_updated": "2025-12-04T17:33:44.880298",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-games/Frisia": {
@@ -176,7 +176,7 @@
     "remote_url": "https://github.com/NoamFav/Frisia.git",
     "default_branch": "main",
     "last_commit": "16aa35eae3479a7182ed080741467844473436b9",
-    "last_updated": "2025-12-01T12:10:22.708470",
+    "last_updated": "2025-12-04T17:33:44.978691",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-games/Pot_Pot_Golf": {
@@ -185,7 +185,7 @@
     "remote_url": "https://github.com/NoamFav/Pot_Pot_Golf.git",
     "default_branch": "main",
     "last_commit": "51cda5c02c361f5edffdf539bec53224c06f4e68",
-    "last_updated": "2025-12-01T12:10:22.797805",
+    "last_updated": "2025-12-04T17:33:45.081300",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-games/ShadowedHunter": {
@@ -194,7 +194,7 @@
     "remote_url": "https://github.com/NoamFav/ShadowedHunter.git",
     "default_branch": "main",
     "last_commit": "a03051fee528564c88b6cb2bca5c844ebd3f6a3d",
-    "last_updated": "2025-12-01T12:10:22.925266",
+    "last_updated": "2025-12-04T17:33:45.232011",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/2077.nvim": {
@@ -203,7 +203,7 @@
     "remote_url": "https://github.com/NoamFav/2077.nvim.git",
     "default_branch": "master",
     "last_commit": "e8b0465441cc16c0317ebc92070023bfe99f64a3",
-    "last_updated": "2025-12-01T12:10:23.008878",
+    "last_updated": "2025-12-04T17:33:45.340152",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/Nvim-config": {
@@ -212,7 +212,7 @@
     "remote_url": "https://github.com/NoamFav/Nvim-config.git",
     "default_branch": "main",
     "last_commit": "933a4a5544ec0b7195f05f7e553a7efb256c6ebb",
-    "last_updated": "2025-12-01T12:10:23.097734",
+    "last_updated": "2025-12-04T17:33:45.441947",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/Zarya.nvim": {
@@ -221,7 +221,7 @@
     "remote_url": "https://github.com/NoamFav/Zarya.nvim",
     "default_branch": "main",
     "last_commit": "bdfd85f3921e2579752b763de58f7dc827210aaf",
-    "last_updated": "2025-12-01T12:10:23.181098",
+    "last_updated": "2025-12-04T17:33:45.537891",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/nvim-code-action-menu": {
@@ -230,7 +230,7 @@
     "remote_url": "https://github.com/NoamFav/nvim-code-action-menu.git",
     "default_branch": "main",
     "last_commit": "abf635d307d02708fe9c7eeea63681117fea10a4",
-    "last_updated": "2025-12-01T12:10:23.265367",
+    "last_updated": "2025-12-04T17:33:45.635623",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/tokyonight.nvim": {
@@ -239,7 +239,7 @@
     "remote_url": "https://github.com/NoamFav/tokyonight.nvim.git",
     "default_branch": "main",
     "last_commit": "6c284374bee7961764aa84dfd55ec3a07b91d136",
-    "last_updated": "2025-12-01T12:10:23.356853",
+    "last_updated": "2025-12-04T17:33:45.747087",
     "active": true
   },
   "/Users/noamfavier/Neoware/04-coursework/cloud-computing-project": {
@@ -248,7 +248,7 @@
     "remote_url": "https://github.com/marduta/cloud-computing-project.git",
     "default_branch": "refactoring",
     "last_commit": "06f7a920811b761c003a908cf95bb2cb37d51839",
-    "last_updated": "2025-12-01T12:10:23.441828",
+    "last_updated": "2025-12-04T17:33:45.845972",
     "active": true
   },
   "/Users/noamfavier/Neoware/04-coursework/edmo-pipeline": {
@@ -256,8 +256,8 @@
     "name": "edmo-pipeline",
     "remote_url": "https://github.com/NoamFav/project-3-1",
     "default_branch": "main",
-    "last_commit": "52e6c88c6b7f434f1abb3b21469f08701eb19151",
-    "last_updated": "2025-12-01T12:10:23.529982",
+    "last_commit": "28927b753b51f3c90e307bc20f21cece8394a04b",
+    "last_updated": "2025-12-04T17:33:45.946652",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/EnronBox": {
@@ -266,7 +266,7 @@
     "remote_url": "https://github.com/NoamFav/EnronBox",
     "default_branch": "main",
     "last_commit": "720641f213507f8e6293b26bc063784063b88739",
-    "last_updated": "2025-12-01T12:10:23.617947",
+    "last_updated": "2025-12-04T17:33:46.047322",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/QueryCrust": {
@@ -275,7 +275,7 @@
     "remote_url": "https://github.com/NoamFav/QueryCrust.git",
     "default_branch": "main",
     "last_commit": "adee296e31172367f04ff22d914a0a82d3996898",
-    "last_updated": "2025-12-01T12:10:23.701588",
+    "last_updated": "2025-12-04T17:33:46.145767",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/Student-Analysis": {
@@ -284,7 +284,7 @@
     "remote_url": "https://github.com/NoamFav/Student-Analysis.git",
     "default_branch": "main",
     "last_commit": "303d0931a96317548359befb970b77ecb3d14020",
-    "last_updated": "2025-12-01T12:10:23.787094",
+    "last_updated": "2025-12-04T17:33:46.244357",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/collatz_conjecture": {
@@ -293,7 +293,7 @@
     "remote_url": "https://github.com/NoamFav/collatz_conjecture.git",
     "default_branch": "main",
     "last_commit": "58ce0f7f914861d06a65f33ff5a89df55254b556",
-    "last_updated": "2025-12-01T12:10:23.871266",
+    "last_updated": "2025-12-04T17:33:46.339222",
     "active": true
   },
   "/Users/noamfavier/Neoware/06-configs/aerospace": {
@@ -302,7 +302,7 @@
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
     "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2025-12-01T12:10:23.955691",
+    "last_updated": "2025-12-04T17:33:46.443868",
     "active": true
   },
   "/Users/noamfavier/Neoware/06-configs/sketchybar": {
@@ -311,7 +311,7 @@
     "remote_url": "https://github.com/NoamFav/sketchybar.git",
     "default_branch": "main",
     "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2025-12-01T12:10:24.039955",
+    "last_updated": "2025-12-04T17:33:46.547847",
     "active": true
   },
   "/Users/noamfavier/Neoware/06-configs/zsh": {
@@ -320,7 +320,7 @@
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
     "last_commit": "3626021af34340867f9b8b646a8e1c9d4f288275",
-    "last_updated": "2025-12-01T12:10:24.123140",
+    "last_updated": "2025-12-04T17:33:46.647824",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/NoamFav": {
@@ -329,7 +329,7 @@
     "remote_url": "https://github.com/NoamFav/NoamFav.git",
     "default_branch": "main",
     "last_commit": "d058433719ae741d043b20ceb008f2baf9ee56de",
-    "last_updated": "2025-12-01T12:10:24.211822",
+    "last_updated": "2025-12-04T17:33:46.745464",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/PyNexus": {
@@ -338,7 +338,7 @@
     "remote_url": "https://github.com/NoamFav/PyNexus.git",
     "default_branch": "main",
     "last_commit": "61f48d9ce36a2caebc28e7daf580a4f2a7c2356f",
-    "last_updated": "2025-12-01T12:10:24.300178",
+    "last_updated": "2025-12-04T17:33:46.841052",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Thynkly": {
@@ -347,7 +347,7 @@
     "remote_url": "https://github.com/NoamFav/Thynkly",
     "default_branch": "main",
     "last_commit": "738a9bc4e79a7ed19fddefcea8bf079a530e778b",
-    "last_updated": "2025-12-01T12:10:24.385499",
+    "last_updated": "2025-12-04T17:33:46.934980",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Yadro": {
@@ -356,7 +356,7 @@
     "remote_url": "https://github.com/NoamFav/Yadro",
     "default_branch": "main",
     "last_commit": "25e64fadb1166bc24920397b5d18071610b10510",
-    "last_updated": "2025-12-01T12:10:24.477219",
+    "last_updated": "2025-12-04T17:33:47.032136",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/arduino": {
@@ -365,7 +365,7 @@
     "remote_url": "https://github.com/NoamFav/arduino",
     "default_branch": "main",
     "last_commit": "9e9f72a6505b1410ff0d5e354b9efc3eb89fb382",
-    "last_updated": "2025-12-01T12:10:24.577181",
+    "last_updated": "2025-12-04T17:33:47.127919",
     "active": true
   },
   "/Users/noamfavier/.config": {
@@ -382,8 +382,8 @@
     "name": "nvim",
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
-    "last_commit": "6f781bf9103f9587d433eb3b1a3c8b5e71dae400",
-    "last_updated": "2025-12-01T12:10:29.840963",
+    "last_commit": "84f4b9fe6320b00fcb186969be8970e9a2632802",
+    "last_updated": "2025-12-03T15:00:42.911675",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
