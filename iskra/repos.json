@@ -364,8 +364,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "728edae3b8465ed516b5dbe94a9663580a83c4b8",
-    "last_updated": "2025-12-10T13:40:21.347542",
+    "last_commit": "5781b644025bd9c9a62d022ca17440bc7df04cac",
+    "last_updated": "2025-12-11T14:41:20.650767",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -373,8 +373,8 @@
     "name": "nvim",
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
-    "last_commit": "0181f5515f67728f00bd60d295c7e760afe7a172",
-    "last_updated": "2025-12-10T13:40:21.372395",
+    "last_commit": "f83bfdd22128580534df54604be1ea2e2d853136",
+    "last_updated": "2025-12-11T14:41:24.202935",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -383,7 +383,7 @@
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
     "last_commit": "879e045d4146525e4b32945b4224a30abc4c0164",
-    "last_updated": "2025-12-10T13:40:21.399591",
+    "last_updated": "2025-12-11T14:41:24.239478",
     "active": true
   },
   "/Users/noamfavier/.config/sketchybar": {
@@ -392,7 +392,7 @@
     "remote_url": "https://github.com/NoamFav/sketchybar",
     "default_branch": "main",
     "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2025-12-10T13:40:21.425799",
+    "last_updated": "2025-12-11T14:41:24.271286",
     "active": true
   },
   "/Users/noamfavier/.config/aerospace": {
@@ -401,7 +401,7 @@
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
     "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2025-12-10T13:40:21.454531",
+    "last_updated": "2025-12-11T14:41:24.302973",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iskra": {
@@ -409,8 +409,8 @@
     "name": "Iskra",
     "remote_url": "https://github.com/NoamFav/Iskra.git",
     "default_branch": "main",
-    "last_commit": "eaa43dc911f3673401d79cd99e5c9eecbfe38c36",
-    "last_updated": "2025-12-10T14:47:34.082482",
+    "last_commit": "f52f33a4f4ce4c9aaa2a8987a299aebaef35cb39",
+    "last_updated": "2025-12-11T16:43:48.791538",
     "active": true
   }
 }
