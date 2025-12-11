@@ -364,8 +364,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "5781b644025bd9c9a62d022ca17440bc7df04cac",
-    "last_updated": "2025-12-11T14:41:20.650767",
+    "last_commit": "c753427ed053ed7b5eec8120a18b720ac8caf0db",
+    "last_updated": "2025-12-11T16:44:19.487639",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
