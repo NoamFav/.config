@@ -364,8 +364,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "72a5be234a9b2d4b3c0022577163f8d2d968e0a8",
-    "last_updated": "2025-12-13T02:00:03.947822",
+    "last_commit": "f53ce8c3bc0da5987f9d837f94a988dbc2610f47",
+    "last_updated": "2025-12-16T13:41:58.792284",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -374,7 +374,7 @@
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
     "last_commit": "f83bfdd22128580534df54604be1ea2e2d853136",
-    "last_updated": "2025-12-11T16:44:51.155756",
+    "last_updated": "2025-12-16T13:41:58.826657",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -383,7 +383,7 @@
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
     "last_commit": "879e045d4146525e4b32945b4224a30abc4c0164",
-    "last_updated": "2025-12-11T16:44:51.185023",
+    "last_updated": "2025-12-16T13:41:58.860296",
     "active": true
   },
   "/Users/noamfavier/.config/sketchybar": {
@@ -392,7 +392,7 @@
     "remote_url": "https://github.com/NoamFav/sketchybar",
     "default_branch": "main",
     "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2025-12-11T16:44:51.218095",
+    "last_updated": "2025-12-16T13:41:58.894815",
     "active": true
   },
   "/Users/noamfavier/.config/aerospace": {
@@ -401,7 +401,7 @@
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
     "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2025-12-11T16:44:51.250056",
+    "last_updated": "2025-12-16T13:41:58.928094",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iskra": {
@@ -410,7 +410,7 @@
     "remote_url": "https://github.com/NoamFav/Iskra.git",
     "default_branch": "main",
     "last_commit": "f52f33a4f4ce4c9aaa2a8987a299aebaef35cb39",
-    "last_updated": "2025-12-11T16:44:51.281804",
+    "last_updated": "2025-12-16T13:41:58.962387",
     "active": true
   }
 }
