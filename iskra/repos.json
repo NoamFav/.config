@@ -364,8 +364,8 @@
     "name": ".config",
     "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "d89330b4d68ee496de276fe07855fe8a343476e7",
-    "last_updated": "2026-02-16T18:22:14.998689",
+    "last_commit": "6340b52613376c7c8e8e9e327c504faac343d214",
+    "last_updated": "2026-02-20T15:06:28.897117",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -374,7 +374,7 @@
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
     "last_commit": "07f41256fcac575f582f5f9f6918f48385400edf",
-    "last_updated": "2026-02-16T18:22:19.095523",
+    "last_updated": "2026-02-20T15:06:28.952062",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -383,7 +383,7 @@
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
     "last_commit": "d41cb02713059b753ccccc0e41263a1b8ae7fb98",
-    "last_updated": "2026-02-16T18:22:19.146237",
+    "last_updated": "2026-02-20T15:06:29.000118",
     "active": true
   },
   "/Users/noamfavier/.config/sketchybar": {
@@ -392,7 +392,7 @@
     "remote_url": "https://github.com/NoamFav/sketchybar",
     "default_branch": "main",
     "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2026-02-16T18:22:19.192483",
+    "last_updated": "2026-02-20T15:06:29.045690",
     "active": true
   },
   "/Users/noamfavier/.config/aerospace": {
@@ -401,7 +401,7 @@
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
     "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2026-02-16T18:22:19.237810",
+    "last_updated": "2026-02-20T15:06:29.091458",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iskra": {
@@ -409,8 +409,8 @@
     "name": "Iskra",
     "remote_url": "https://github.com/NoamFav/Iskra.git",
     "default_branch": "main",
-    "last_commit": "fe7ed92e96cf8aaff709e7de4d1ae2a611224a08",
-    "last_updated": "2026-02-16T18:22:22.275568",
+    "last_commit": "af77b26e0abfc88ad9a5135b832ea2d4afe01974",
+    "last_updated": "2026-02-20T15:06:29.136589",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/Laundry": {
@@ -419,7 +419,7 @@
     "remote_url": "https://github.com/NoamFav/Laundry",
     "default_branch": "main",
     "last_commit": "384bdb7a4f0f63cb52b95872fa58779e23452b56",
-    "last_updated": "2026-02-16T18:22:22.337931",
+    "last_updated": "2026-02-20T15:06:29.180697",
     "active": true
   }
 }
