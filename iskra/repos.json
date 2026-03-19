@@ -143,6 +143,15 @@
     "last_updated": "2026-02-20T15:06:21.559830",
     "active": true
   },
+  "/Users/noamfavier/Neoware/00-apps/netcrawler": {
+    "path": "/Users/noamfavier/Neoware/00-apps/netcrawler",
+    "name": "netcrawler",
+    "remote_url": "https://github.com/NoamFav/netcrawler.git",
+    "default_branch": "main",
+    "last_commit": "7b85f07e45ef95472acd14e405e9cec17d4516f8",
+    "last_updated": "2026-03-14T03:11:03+01:00",
+    "active": true
+  },
   "/Users/noamfavier/Neoware/00-apps/nyancat": {
     "path": "/Users/noamfavier/Neoware/00-apps/nyancat",
     "name": "nyancat",
