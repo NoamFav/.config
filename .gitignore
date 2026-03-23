@@ -7,7 +7,7 @@ github-copilot/
 fontforge/
 iterm2/
 shell-color-scripts/
-
+.claude/
 .DS_store
 **/.git
 
