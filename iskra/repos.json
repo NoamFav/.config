@@ -314,15 +314,6 @@
     "last_updated": "2026-02-20T15:06:22.385469",
     "active": true
   },
-  "/Users/noamfavier/Neoware/04-coursework/edmo-pipeline": {
-    "path": "/Users/noamfavier/Neoware/04-coursework/edmo-pipeline",
-    "name": "edmo-pipeline",
-    "remote_url": "https://github.com/NoamFav/project-3-1",
-    "default_branch": "main",
-    "last_commit": "28927b753b51f3c90e307bc20f21cece8394a04b",
-    "last_updated": "2026-02-20T15:06:22.439656",
-    "active": true
-  },
   "/Users/noamfavier/Neoware/05-research/EnronBox": {
     "path": "/Users/noamfavier/Neoware/05-research/EnronBox",
     "name": "EnronBox",
