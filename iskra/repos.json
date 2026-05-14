@@ -44,6 +44,15 @@
     "last_updated": "2026-02-20T15:06:29.000118",
     "active": true
   },
+  "/Users/noamfavier/Library/Mobile Documents/com~apple~CloudDocs/divers/thoughts and idea/triad": {
+    "path": "/Users/noamfavier/Library/Mobile Documents/com~apple~CloudDocs/divers/thoughts and idea/triad",
+    "name": "triad",
+    "remote_url": "https://github.com/NoamFav/Republic-of-the-triad.git",
+    "default_branch": "main",
+    "last_commit": "77148160234c29fcdc4b2808f810696fba880d24",
+    "last_updated": "2026-05-06T00:06:57+02:00",
+    "active": true
+  },
   "/Users/noamfavier/Neoware/00-apps/Altair": {
     "path": "/Users/noamfavier/Neoware/00-apps/Altair",
     "name": "Altair",
