@@ -188,15 +188,6 @@
     "last_updated": "2026-02-20T15:06:21.691098",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/Laundry": {
-    "path": "/Users/noamfavier/Neoware/01-websites/Laundry",
-    "name": "Laundry",
-    "remote_url": "https://github.com/NoamFav/Laundry",
-    "default_branch": "main",
-    "last_commit": "384bdb7a4f0f63cb52b95872fa58779e23452b56",
-    "last_updated": "2026-02-20T15:06:29.180697",
-    "active": true
-  },
   "/Users/noamfavier/Neoware/01-websites/NF-Software": {
     "path": "/Users/noamfavier/Neoware/01-websites/NF-Software",
     "name": "NF-Software",
@@ -222,15 +213,6 @@
     "default_branch": "main",
     "last_commit": "a9a24d7dd70f03f7d6fc53aa0ffff7e480adff8c",
     "last_updated": "2026-02-20T15:06:21.832026",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/01-websites/coast": {
-    "path": "/Users/noamfavier/Neoware/01-websites/coast",
-    "name": "coast",
-    "remote_url": "https://github.com/NoamFav/coast",
-    "default_branch": "main",
-    "last_commit": "b94049015701c673030adaa5a823c5b13222ba9b",
-    "last_updated": "2026-02-20T15:06:21.886892",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-websites/thynkly_web": {
