@@ -53,15 +53,6 @@
     "last_updated": "2026-05-06T00:06:57+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/00-apps/Altair": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Altair",
-    "name": "Altair",
-    "remote_url": "https://github.com/NoamFav/RepoOps.git",
-    "default_branch": "main",
-    "last_commit": "721097d8b2cfccf5efc3ebc7abbf229ee7ca4136",
-    "last_updated": "2026-02-20T15:06:21.155961",
-    "active": true
-  },
   "/Users/noamfavier/Neoware/00-apps/Astrotop": {
     "path": "/Users/noamfavier/Neoware/00-apps/Astrotop",
     "name": "Astrotop",
@@ -69,24 +60,6 @@
     "default_branch": "main",
     "last_commit": "2c6a78fd17780534fb53b301dc2265f68e6e34ff",
     "last_updated": "2026-02-20T15:06:21.202624",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Briz": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Briz",
-    "name": "Briz",
-    "remote_url": "https://github.com/NoamFav/Briz.git",
-    "default_branch": "main",
-    "last_commit": "78068aa10d0e49107d6fe3a490a63a815b5ed31e",
-    "last_updated": "2026-02-20T15:06:21.247692",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Derevo": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Derevo",
-    "name": "Derevo",
-    "remote_url": "https://github.com/NoamFav/Derevo.git",
-    "default_branch": "main",
-    "last_commit": "8bd1e20f80cc03051b115fa4e508afb526f046f8",
-    "last_updated": "2026-02-20T15:06:21.289621",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/GymBuddy": {
@@ -116,15 +89,6 @@
     "last_updated": "2026-02-28T17:01:57+01:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/00-apps/Puls": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Puls",
-    "name": "Puls",
-    "remote_url": "https://github.com/NoamFav/Puls.git",
-    "default_branch": "main",
-    "last_commit": "74afcee67fa17101f8a4e93d5ee9b2c94dfb9584",
-    "last_updated": "2026-02-20T15:06:21.429410",
-    "active": true
-  },
   "/Users/noamfavier/Neoware/00-apps/Setka": {
     "path": "/Users/noamfavier/Neoware/00-apps/Setka",
     "name": "Setka",
@@ -132,15 +96,6 @@
     "default_branch": "main",
     "last_commit": "ff8ec174409fd88aa26c513587b5a661ce22a77f",
     "last_updated": "2026-02-20T15:06:21.473639",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Vektor": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Vektor",
-    "name": "Vektor",
-    "remote_url": "https://github.com/NoamFav/Vektor.git",
-    "default_branch": "main",
-    "last_commit": "79578bf3411f0389d5c1253d696e169d26a81d5a",
-    "last_updated": "2026-02-20T15:06:21.516759",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Zvezda": {
