@@ -3,16 +3,16 @@ config_dir: ~/.auto-commit
 max_depth: 3
 follow_symlinks: true
 exclude_patterns:
-- tmp-*
-- test-*
-- backup-*
+  - tmp-*
+  - test-*
+  - backup-*
 only_patterns: []
 default_branch: main
 protected_branches:
-- main
-- master
-- production
-- release
+  - main
+  - master
+  - production
+  - release
 auto_pull: false
 auto_push: true
 use_ai_commit: true
@@ -24,6 +24,7 @@ dry_run: false
 show_diff: false
 verbose: false
 use_rich_ui: true
+show_descriptions: true
 skip_repos_without_changes: false
 skip_repos_ahead_of_remote: false
 handle_gitignore: false
