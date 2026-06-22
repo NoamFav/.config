@@ -2,10 +2,9 @@
   "/Users/noamfavier/.config": {
     "path": "/Users/noamfavier/.config",
     "name": ".config",
-    "remote_url": "https://github.com/NoamFav/.config",
     "default_branch": "main",
-    "last_commit": "6340b52613376c7c8e8e9e327c504faac343d214",
-    "last_updated": "2026-02-20T15:06:28.897117",
+    "last_commit": "b22edb8ce446d8cf3ae2eeb9010cb675a4bc45eb",
+    "last_updated": "2026-06-23T00:09:42+02:00",
     "active": true
   },
   "/Users/noamfavier/.config/aerospace": {
@@ -13,8 +12,8 @@
     "name": "aerospace",
     "remote_url": "https://github.com/NoamFav/aerospace.git",
     "default_branch": "main",
-    "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2026-02-20T15:06:29.091458",
+    "last_commit": "b19b2371f8a405c400ebcb18f395bbc8b78daf64",
+    "last_updated": "2026-06-23T00:10:44+02:00",
     "active": true
   },
   "/Users/noamfavier/.config/nvim": {
@@ -22,8 +21,8 @@
     "name": "nvim",
     "remote_url": "https://github.com/NoamFav/Nvim-config",
     "default_branch": "main",
-    "last_commit": "07f41256fcac575f582f5f9f6918f48385400edf",
-    "last_updated": "2026-02-20T15:06:28.952062",
+    "last_commit": "05dfbdca8d0996e9bbd12eaaf42c09aa08e6120a",
+    "last_updated": "2026-06-23T00:10:44+02:00",
     "active": true
   },
   "/Users/noamfavier/.config/sketchybar": {
@@ -31,8 +30,17 @@
     "name": "sketchybar",
     "remote_url": "https://github.com/NoamFav/sketchybar",
     "default_branch": "main",
-    "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2026-02-20T15:06:29.045690",
+    "last_commit": "b931cd716623a3a4560267deb6df40a3a6ddb73a",
+    "last_updated": "2026-06-23T00:10:44+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/.config/yazi/flavors/tokyo-night.yazi": {
+    "path": "/Users/noamfavier/.config/yazi/flavors/tokyo-night.yazi",
+    "name": "tokyo-night.yazi",
+    "remote_url": "https://github.com/BennyOe/tokyo-night.yazi.git",
+    "default_branch": "main",
+    "last_commit": "caa00abcce9886373d687d8aea8b812870f74da7",
+    "last_updated": "2026-06-23T00:10:44+02:00",
     "active": true
   },
   "/Users/noamfavier/.config/zsh": {
@@ -40,35 +48,8 @@
     "name": "zsh",
     "remote_url": "https://github.com/NoamFav/zsh.git",
     "default_branch": "main",
-    "last_commit": "d41cb02713059b753ccccc0e41263a1b8ae7fb98",
-    "last_updated": "2026-02-20T15:06:29.000118",
-    "active": true
-  },
-  "/Users/noamfavier/Library/Mobile Documents/com~apple~CloudDocs/divers/thoughts and idea/triad": {
-    "path": "/Users/noamfavier/Library/Mobile Documents/com~apple~CloudDocs/divers/thoughts and idea/triad",
-    "name": "triad",
-    "remote_url": "https://github.com/NoamFav/Republic-of-the-triad.git",
-    "default_branch": "main",
-    "last_commit": "77148160234c29fcdc4b2808f810696fba880d24",
-    "last_updated": "2026-05-06T00:06:57+02:00",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Altair": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Altair",
-    "name": "Altair",
-    "remote_url": "https://github.com/NoamFav/RepoOps.git",
-    "default_branch": "main",
-    "last_commit": "721097d8b2cfccf5efc3ebc7abbf229ee7ca4136",
-    "last_updated": "2026-02-20T15:06:21.155961",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Astrotop": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Astrotop",
-    "name": "Astrotop",
-    "remote_url": "https://github.com/NoamFav/Astrotop.git",
-    "default_branch": "main",
-    "last_commit": "2c6a78fd17780534fb53b301dc2265f68e6e34ff",
-    "last_updated": "2026-02-20T15:06:21.202624",
+    "last_commit": "5391d3536a5091b16f262bf3c7284fc0c5fff945",
+    "last_updated": "2026-06-23T00:10:44+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Briz": {
@@ -76,17 +57,8 @@
     "name": "Briz",
     "remote_url": "https://github.com/NoamFav/Briz.git",
     "default_branch": "main",
-    "last_commit": "78068aa10d0e49107d6fe3a490a63a815b5ed31e",
-    "last_updated": "2026-02-20T15:06:21.247692",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Derevo": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Derevo",
-    "name": "Derevo",
-    "remote_url": "https://github.com/NoamFav/Derevo.git",
-    "default_branch": "main",
-    "last_commit": "8bd1e20f80cc03051b115fa4e508afb526f046f8",
-    "last_updated": "2026-02-20T15:06:21.289621",
+    "last_commit": "03a6e56af0cb49434ccf27e472f6f5ab56a10dfb",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/GymBuddy": {
@@ -94,35 +66,26 @@
     "name": "GymBuddy",
     "remote_url": "https://github.com/NoamFav/GymBuddy.git",
     "default_branch": "main",
-    "last_commit": "bb298ac0636ad36f95005a5bddc114612117f7c4",
-    "last_updated": "2026-02-20T15:06:21.338888",
+    "last_commit": "cf9a2cc2366959f716373ffc51e4cd8ae58200e7",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iris": {
     "path": "/Users/noamfavier/Neoware/00-apps/Iris",
     "name": "Iris",
-    "remote_url": "https://github.com/NoamFav/Iris.git",
+    "remote_url": "https://github.com/NoamFav/iris",
     "default_branch": "main",
-    "last_commit": "23b14f20a55f5bee7958e0c518788c4e0a8e2606",
-    "last_updated": "2026-02-20T15:06:21.386839",
+    "last_commit": "869eb01dfc6c6d493e843861425be2557f57ad33",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/00-apps/Iskra": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Iskra",
-    "name": "Iskra",
-    "remote_url": "https://github.com/NoamFav/Iskra",
+  "/Users/noamfavier/Neoware/00-apps/NetViz": {
+    "path": "/Users/noamfavier/Neoware/00-apps/NetViz",
+    "name": "NetViz",
+    "remote_url": "https://github.com/NoamFav/NetViz.git",
     "default_branch": "main",
-    "last_commit": "8f05eaacf322182a795129099d4d5f25eae596a3",
-    "last_updated": "2026-02-28T17:01:57+01:00",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/00-apps/Puls": {
-    "path": "/Users/noamfavier/Neoware/00-apps/Puls",
-    "name": "Puls",
-    "remote_url": "https://github.com/NoamFav/Puls.git",
-    "default_branch": "main",
-    "last_commit": "74afcee67fa17101f8a4e93d5ee9b2c94dfb9584",
-    "last_updated": "2026-02-20T15:06:21.429410",
+    "last_commit": "0814c0526fb6b900c1665b4b85058c8b4893f0d9",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Setka": {
@@ -130,8 +93,8 @@
     "name": "Setka",
     "remote_url": "https://github.com/NoamFav/Setka.git",
     "default_branch": "main",
-    "last_commit": "ff8ec174409fd88aa26c513587b5a661ce22a77f",
-    "last_updated": "2026-02-20T15:06:21.473639",
+    "last_commit": "c7b54f2125d633a4173183bb4628689614d36f71",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Vektor": {
@@ -139,8 +102,8 @@
     "name": "Vektor",
     "remote_url": "https://github.com/NoamFav/Vektor.git",
     "default_branch": "main",
-    "last_commit": "79578bf3411f0389d5c1253d696e169d26a81d5a",
-    "last_updated": "2026-02-20T15:06:21.516759",
+    "last_commit": "d61cb4ac28fde7e40c7f6d5678c12ec22bc6c379",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Zvezda": {
@@ -148,125 +111,152 @@
     "name": "Zvezda",
     "remote_url": "https://github.com/NoamFav/Zvezda",
     "default_branch": "main",
-    "last_commit": "8646a8ed3a6909258238cd3b4f599e82c43c9de6",
-    "last_updated": "2026-02-20T15:06:21.559830",
+    "last_commit": "795abd4e82bbd0642d656beea9066d6e481692b5",
+    "last_updated": "2026-06-23T00:09:29+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/00-apps/netcrawler": {
-    "path": "/Users/noamfavier/Neoware/00-apps/netcrawler",
+  "/Users/noamfavier/Neoware/00-apps/oh-my-gosh": {
+    "path": "/Users/noamfavier/Neoware/00-apps/oh-my-gosh",
+    "name": "oh-my-gosh",
+    "remote_url": "https://github.com/NoamFav/Oh-My-Gosh.git",
+    "default_branch": "main",
+    "last_commit": "920530f14cec2f6a5a94209cd9ff3248cf7f4c55",
+    "last_updated": "2026-06-23T00:09:29+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/Astrotop": {
+    "path": "/Users/noamfavier/Neoware/01-tools/Astrotop",
+    "name": "Astrotop",
+    "remote_url": "https://github.com/NoamFav/Astrotop.git",
+    "default_branch": "main",
+    "last_commit": "94b4fc286e0ca83f586bb9589d7c8c81bd66301a",
+    "last_updated": "2026-06-23T00:09:29+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/Derevo": {
+    "path": "/Users/noamfavier/Neoware/01-tools/Derevo",
+    "name": "Derevo",
+    "remote_url": "https://github.com/NoamFav/Derevo.git",
+    "default_branch": "main",
+    "last_commit": "b3032d9169399eaffe714cf9ffdc1bddafa985be",
+    "last_updated": "2026-06-23T00:09:29+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/Iskra": {
+    "path": "/Users/noamfavier/Neoware/01-tools/Iskra",
+    "name": "Iskra",
+    "remote_url": "https://github.com/NoamFav/Iskra",
+    "default_branch": "main",
+    "last_commit": "cffe7614c23bc606b0716d18da83b2c7f7ea8afd",
+    "last_updated": "2026-06-23T00:09:29+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/NF-ToolBox": {
+    "path": "/Users/noamfavier/Neoware/01-tools/NF-ToolBox",
+    "name": "NF-ToolBox",
+    "remote_url": "https://github.com/NoamFav/NF-ToolBox.git",
+    "default_branch": "main",
+    "last_commit": "c670ee31d9992c23786bc4dcd402d58a0232d43f",
+    "last_updated": "2026-06-23T00:09:29+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/Puls": {
+    "path": "/Users/noamfavier/Neoware/01-tools/Puls",
+    "name": "Puls",
+    "remote_url": "https://github.com/NoamFav/Puls.git",
+    "default_branch": "main",
+    "last_commit": "57cddc3fa8b54fa836c0caed0a702dc0a9819885",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/SysDash": {
+    "path": "/Users/noamfavier/Neoware/01-tools/SysDash",
+    "name": "SysDash",
+    "remote_url": "https://github.com/NoamFav/SysDash.git",
+    "default_branch": "main",
+    "last_commit": "aeb005bba6b931eaf383bbdfcee66ecbc4cdbb2d",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/01-tools/netcrawler": {
+    "path": "/Users/noamfavier/Neoware/01-tools/netcrawler",
     "name": "netcrawler",
     "remote_url": "https://github.com/NoamFav/netcrawler.git",
     "default_branch": "main",
-    "last_commit": "7b85f07e45ef95472acd14e405e9cec17d4516f8",
-    "last_updated": "2026-03-14T03:11:03+01:00",
+    "last_commit": "a64f89f6210b62d34dafb71f629b8d95a889854b",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/00-apps/nyancat": {
-    "path": "/Users/noamfavier/Neoware/00-apps/nyancat",
+  "/Users/noamfavier/Neoware/01-tools/nyancat": {
+    "path": "/Users/noamfavier/Neoware/01-tools/nyancat",
     "name": "nyancat",
-    "remote_url": "https://github.com/NoamFav/nyancat.git",
+    "remote_url": "https://github.com/NoamFav/nyancat",
     "default_branch": "master",
-    "last_commit": "ea10005c4d1198c896a7c0769fdeaee4840675fc",
-    "last_updated": "2026-02-20T15:06:21.604120",
+    "last_commit": "5d7ceba43037dc11de9e45d132b9b92a3b44ad5f",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/BitVoyager": {
-    "path": "/Users/noamfavier/Neoware/01-websites/BitVoyager",
+  "/Users/noamfavier/Neoware/02-websites/BitVoyager": {
+    "path": "/Users/noamfavier/Neoware/02-websites/BitVoyager",
     "name": "BitVoyager",
     "remote_url": "https://github.com/NoamFav/BitVoyager.git",
     "default_branch": "main",
-    "last_commit": "b038ca511d7e37578811c75720b6b1fcc03dc745",
-    "last_updated": "2026-02-20T15:06:21.647709",
+    "last_commit": "dd9770c2ef3fda058ea9290034a9fec5a18966ca",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/HTML": {
-    "path": "/Users/noamfavier/Neoware/01-websites/HTML",
+  "/Users/noamfavier/Neoware/02-websites/HTML": {
+    "path": "/Users/noamfavier/Neoware/02-websites/HTML",
     "name": "HTML",
     "remote_url": "https://github.com/NoamFav/HTML",
     "default_branch": "main",
-    "last_commit": "9099f6c408b2801ee04e842fde78151675a02b92",
-    "last_updated": "2026-02-20T15:06:21.691098",
+    "last_commit": "4e1a8b08a0b7e493bb73562758fe0855af154852",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/Laundry": {
-    "path": "/Users/noamfavier/Neoware/01-websites/Laundry",
-    "name": "Laundry",
-    "remote_url": "https://github.com/NoamFav/Laundry",
-    "default_branch": "main",
-    "last_commit": "384bdb7a4f0f63cb52b95872fa58779e23452b56",
-    "last_updated": "2026-02-20T15:06:29.180697",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/01-websites/NF-Software": {
-    "path": "/Users/noamfavier/Neoware/01-websites/NF-Software",
+  "/Users/noamfavier/Neoware/02-websites/NF-Software": {
+    "path": "/Users/noamfavier/Neoware/02-websites/NF-Software",
     "name": "NF-Software",
     "remote_url": "https://github.com/NoamFav/NF-Software",
     "default_branch": "main",
-    "last_commit": "f272521403a4287d2892c39fb285e38d3dbb3030",
-    "last_updated": "2026-02-20T15:06:21.738491",
+    "last_commit": "e786571f31e2f6ef38f1ef0b8823262168bfe175",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/Psycho": {
-    "path": "/Users/noamfavier/Neoware/01-websites/Psycho",
+  "/Users/noamfavier/Neoware/02-websites/Oh-my-PDFs": {
+    "path": "/Users/noamfavier/Neoware/02-websites/Oh-my-PDFs",
+    "name": "Oh-my-PDFs",
+    "remote_url": "https://github.com/NoamFav/Oh-my-PDFs.git",
+    "default_branch": "main",
+    "last_commit": "50a314224b75df7061cb0bc3f375e5e709587347",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/02-websites/Psycho": {
+    "path": "/Users/noamfavier/Neoware/02-websites/Psycho",
     "name": "Psycho",
     "remote_url": "https://github.com/NoamFav/Psycho.git",
     "default_branch": "main",
-    "last_commit": "ac7e4945988e938968f1ece6912b748f0a260e8d",
-    "last_updated": "2026-02-20T15:06:21.784053",
+    "last_commit": "d3a06db4ffe2d3971c3ade505deb727c15c3e8dc",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/Resume": {
-    "path": "/Users/noamfavier/Neoware/01-websites/Resume",
+  "/Users/noamfavier/Neoware/02-websites/Resume": {
+    "path": "/Users/noamfavier/Neoware/02-websites/Resume",
     "name": "Resume",
     "remote_url": "https://github.com/NoamFav/Resume",
     "default_branch": "main",
-    "last_commit": "a9a24d7dd70f03f7d6fc53aa0ffff7e480adff8c",
-    "last_updated": "2026-02-20T15:06:21.832026",
+    "last_commit": "a6db6c843d8ded093f8dfd3b50121ed719742861",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/01-websites/coast": {
-    "path": "/Users/noamfavier/Neoware/01-websites/coast",
-    "name": "coast",
-    "remote_url": "https://github.com/NoamFav/coast",
-    "default_branch": "main",
-    "last_commit": "b94049015701c673030adaa5a823c5b13222ba9b",
-    "last_updated": "2026-02-20T15:06:21.886892",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/01-websites/thynkly_web": {
-    "path": "/Users/noamfavier/Neoware/01-websites/thynkly_web",
+  "/Users/noamfavier/Neoware/02-websites/thynkly_web": {
+    "path": "/Users/noamfavier/Neoware/02-websites/thynkly_web",
     "name": "thynkly_web",
     "remote_url": "https://github.com/NoamFav/thynkly_web.git",
     "default_branch": "main",
-    "last_commit": "ab2f7b4c771a38430c7bcf963910ef8e60d57ae9",
-    "last_updated": "2026-02-20T15:06:21.929873",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/02-games/Frisia": {
-    "path": "/Users/noamfavier/Neoware/02-games/Frisia",
-    "name": "Frisia",
-    "remote_url": "https://github.com/NoamFav/Frisia.git",
-    "default_branch": "main",
-    "last_commit": "16aa35eae3479a7182ed080741467844473436b9",
-    "last_updated": "2026-02-20T15:06:21.976027",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/02-games/Pot_Pot_Golf": {
-    "path": "/Users/noamfavier/Neoware/02-games/Pot_Pot_Golf",
-    "name": "Pot_Pot_Golf",
-    "remote_url": "https://github.com/NoamFav/Pot_Pot_Golf.git",
-    "default_branch": "main",
-    "last_commit": "51cda5c02c361f5edffdf539bec53224c06f4e68",
-    "last_updated": "2026-02-20T15:06:22.022429",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/02-games/ShadowedHunter": {
-    "path": "/Users/noamfavier/Neoware/02-games/ShadowedHunter",
-    "name": "ShadowedHunter",
-    "remote_url": "https://github.com/NoamFav/ShadowedHunter.git",
-    "default_branch": "main",
-    "last_commit": "a03051fee528564c88b6cb2bca5c844ebd3f6a3d",
-    "last_updated": "2026-02-20T15:06:22.110531",
+    "last_commit": "3bfce50e55bcf9188d3f764687cee7d475ba0691",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/2077.nvim": {
@@ -274,17 +264,8 @@
     "name": "2077.nvim",
     "remote_url": "https://github.com/NoamFav/2077.nvim.git",
     "default_branch": "master",
-    "last_commit": "e8b0465441cc16c0317ebc92070023bfe99f64a3",
-    "last_updated": "2026-02-20T15:06:22.155690",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/03-editor-plugins/Nvim-config": {
-    "path": "/Users/noamfavier/Neoware/03-editor-plugins/Nvim-config",
-    "name": "Nvim-config",
-    "remote_url": "https://github.com/NoamFav/Nvim-config.git",
-    "default_branch": "main",
-    "last_commit": "f83bfdd22128580534df54604be1ea2e2d853136",
-    "last_updated": "2026-02-20T15:06:22.202955",
+    "last_commit": "b6cddb23492c4dd1cbe24fa9f50ecf15fe3322e6",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/Zarya.nvim": {
@@ -292,8 +273,8 @@
     "name": "Zarya.nvim",
     "remote_url": "https://github.com/NoamFav/Zarya.nvim",
     "default_branch": "main",
-    "last_commit": "bdfd85f3921e2579752b763de58f7dc827210aaf",
-    "last_updated": "2026-02-20T15:06:22.245763",
+    "last_commit": "f13063b95f088e3f92bbbbed66c99e1f25842f86",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/nvim-code-action-menu": {
@@ -301,8 +282,8 @@
     "name": "nvim-code-action-menu",
     "remote_url": "https://github.com/NoamFav/nvim-code-action-menu.git",
     "default_branch": "main",
-    "last_commit": "abf635d307d02708fe9c7eeea63681117fea10a4",
-    "last_updated": "2026-02-20T15:06:22.289780",
+    "last_commit": "59708aefa4999a06e4bc1ccda3d12b012bba4740",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/tokyonight.nvim": {
@@ -310,17 +291,35 @@
     "name": "tokyonight.nvim",
     "remote_url": "https://github.com/NoamFav/tokyonight.nvim.git",
     "default_branch": "main",
-    "last_commit": "6c284374bee7961764aa84dfd55ec3a07b91d136",
-    "last_updated": "2026-02-20T15:06:22.342732",
+    "last_commit": "2e4b7d3f22841d6067f33abadc4a1f4f10c0f2a8",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
-  "/Users/noamfavier/Neoware/04-coursework/cloud-computing-project": {
-    "path": "/Users/noamfavier/Neoware/04-coursework/cloud-computing-project",
-    "name": "cloud-computing-project",
-    "remote_url": "https://github.com/marduta/cloud-computing-project.git",
-    "default_branch": "refactoring",
-    "last_commit": "de92a6cb638e99bfa237bf56ca8950d54fddd685",
-    "last_updated": "2026-02-20T15:06:22.385469",
+  "/Users/noamfavier/Neoware/04-games/Frisia": {
+    "path": "/Users/noamfavier/Neoware/04-games/Frisia",
+    "name": "Frisia",
+    "remote_url": "https://github.com/NoamFav/Frisia.git",
+    "default_branch": "main",
+    "last_commit": "15df5a5fec16b1d15c8ab95db1db5898e1c528a6",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/04-games/Pot_Pot_Golf": {
+    "path": "/Users/noamfavier/Neoware/04-games/Pot_Pot_Golf",
+    "name": "Pot_Pot_Golf",
+    "remote_url": "https://github.com/NoamFav/Pot_Pot_Golf.git",
+    "default_branch": "main",
+    "last_commit": "e52875a08c789ea1190082326c64e8b512637ea8",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/04-games/ShadowedHunter": {
+    "path": "/Users/noamfavier/Neoware/04-games/ShadowedHunter",
+    "name": "ShadowedHunter",
+    "remote_url": "https://github.com/NoamFav/ShadowedHunter.git",
+    "default_branch": "main",
+    "last_commit": "4e436210d5efd072b97b45e9972892811c5ccf4f",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/EnronBox": {
@@ -328,8 +327,8 @@
     "name": "EnronBox",
     "remote_url": "https://github.com/NoamFav/EnronBox",
     "default_branch": "main",
-    "last_commit": "720641f213507f8e6293b26bc063784063b88739",
-    "last_updated": "2026-02-20T15:06:22.489558",
+    "last_commit": "3cea2e0123779a6bdd3a23c995e6d5f3d7a24bdc",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/QueryCrust": {
@@ -337,8 +336,8 @@
     "name": "QueryCrust",
     "remote_url": "https://github.com/NoamFav/QueryCrust.git",
     "default_branch": "main",
-    "last_commit": "adee296e31172367f04ff22d914a0a82d3996898",
-    "last_updated": "2026-02-20T15:06:22.539203",
+    "last_commit": "ad74d9450706537988a743bbaf9b3c6016805fc0",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/Student-Analysis": {
@@ -346,8 +345,8 @@
     "name": "Student-Analysis",
     "remote_url": "https://github.com/NoamFav/Student-Analysis.git",
     "default_branch": "main",
-    "last_commit": "303d0931a96317548359befb970b77ecb3d14020",
-    "last_updated": "2026-02-20T15:06:22.585886",
+    "last_commit": "128f963fe54c779b4f2fedf15da115e10c3632fd",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/collatz_conjecture": {
@@ -355,35 +354,8 @@
     "name": "collatz_conjecture",
     "remote_url": "https://github.com/NoamFav/collatz_conjecture.git",
     "default_branch": "main",
-    "last_commit": "58ce0f7f914861d06a65f33ff5a89df55254b556",
-    "last_updated": "2026-02-20T15:06:22.631815",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/06-configs/aerospace": {
-    "path": "/Users/noamfavier/Neoware/06-configs/aerospace",
-    "name": "aerospace",
-    "remote_url": "https://github.com/NoamFav/aerospace.git",
-    "default_branch": "main",
-    "last_commit": "c323824fab2201f3df6ccf870cf0e276dd9e95cd",
-    "last_updated": "2026-02-20T15:06:22.685633",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/06-configs/sketchybar": {
-    "path": "/Users/noamfavier/Neoware/06-configs/sketchybar",
-    "name": "sketchybar",
-    "remote_url": "https://github.com/NoamFav/sketchybar.git",
-    "default_branch": "main",
-    "last_commit": "943f60124d08da4e2bf8e4ce7879125d7b3673fb",
-    "last_updated": "2026-02-20T15:06:22.734820",
-    "active": true
-  },
-  "/Users/noamfavier/Neoware/06-configs/zsh": {
-    "path": "/Users/noamfavier/Neoware/06-configs/zsh",
-    "name": "zsh",
-    "remote_url": "https://github.com/NoamFav/zsh.git",
-    "default_branch": "main",
-    "last_commit": "879e045d4146525e4b32945b4224a30abc4c0164",
-    "last_updated": "2026-02-20T15:06:22.784391",
+    "last_commit": "1fac33c616a2be8a93a54d86ad84e460a362466b",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/NoamFav": {
@@ -391,8 +363,17 @@
     "name": "NoamFav",
     "remote_url": "https://github.com/NoamFav/NoamFav.git",
     "default_branch": "main",
-    "last_commit": "27de8cf3593c66cf9350376b5695ddd4aec35fd4",
-    "last_updated": "2026-02-20T15:06:22.829242",
+    "last_commit": "c4e6ae218776478030e8bfd0c5ffea9dbdef5ef1",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/07-experiments/Perso": {
+    "path": "/Users/noamfavier/Neoware/07-experiments/Perso",
+    "name": "Perso",
+    "remote_url": "https://github.com/NoamFav/Perso.git",
+    "default_branch": "main",
+    "last_commit": "c70b618899c9a269064880cbb4f1edf5de868cef",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/PyNexus": {
@@ -400,8 +381,8 @@
     "name": "PyNexus",
     "remote_url": "https://github.com/NoamFav/PyNexus.git",
     "default_branch": "main",
-    "last_commit": "61f48d9ce36a2caebc28e7daf580a4f2a7c2356f",
-    "last_updated": "2026-02-20T15:06:22.876841",
+    "last_commit": "7fe841c202510a38daae51ae87ca3a919be16c89",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Thynkly": {
@@ -409,8 +390,8 @@
     "name": "Thynkly",
     "remote_url": "https://github.com/NoamFav/Thynkly",
     "default_branch": "main",
-    "last_commit": "738a9bc4e79a7ed19fddefcea8bf079a530e778b",
-    "last_updated": "2026-02-20T15:06:22.929072",
+    "last_commit": "3b6571feddbf10ea623ceb04d5e7b259fa834ce7",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Yadro": {
@@ -418,8 +399,8 @@
     "name": "Yadro",
     "remote_url": "https://github.com/NoamFav/Yadro",
     "default_branch": "main",
-    "last_commit": "25e64fadb1166bc24920397b5d18071610b10510",
-    "last_updated": "2026-02-20T15:06:22.973487",
+    "last_commit": "7b6f68c4d06977e1bdfabb8b209c499c94d7cb20",
+    "last_updated": "2026-06-23T00:09:30+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/arduino": {
@@ -427,8 +408,53 @@
     "name": "arduino",
     "remote_url": "https://github.com/NoamFav/arduino",
     "default_branch": "main",
-    "last_commit": "9e9f72a6505b1410ff0d5e354b9efc3eb89fb382",
-    "last_updated": "2026-02-20T15:06:23.020915",
+    "last_commit": "5668bd8a71008afacbd2b3c66ab564de4baccafe",
+    "last_updated": "2026-06-23T00:09:30+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/08-personal/GetaJob101": {
+    "path": "/Users/noamfavier/Neoware/08-personal/GetaJob101",
+    "name": "GetaJob101",
+    "remote_url": "https://github.com/NoamFav/GetaJob101.git",
+    "default_branch": "main",
+    "last_commit": "9dfb983337372079c04ff5ea4368397041038254",
+    "last_updated": "2026-06-23T00:09:31+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/08-personal/Republic-of-the-triad": {
+    "path": "/Users/noamfavier/Neoware/08-personal/Republic-of-the-triad",
+    "name": "Republic-of-the-triad",
+    "remote_url": "https://github.com/NoamFav/Republic-of-the-triad.git",
+    "default_branch": "main",
+    "last_commit": "333a89852105949d23c9bf2ebe622962454d6c9f",
+    "last_updated": "2026-06-23T00:09:31+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/99-archive/FD-Server": {
+    "path": "/Users/noamfavier/Neoware/99-archive/FD-Server",
+    "name": "FD-Server",
+    "remote_url": "https://github.com/NoamFav/FD-Server.git",
+    "default_branch": "main",
+    "last_commit": "e7c2c86b7da618ba3802e8785f48333569ef0e06",
+    "last_updated": "2026-06-23T00:09:31+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/99-archive/Laundry": {
+    "path": "/Users/noamfavier/Neoware/99-archive/Laundry",
+    "name": "Laundry",
+    "remote_url": "https://github.com/NoamFav/Laundry.git",
+    "default_branch": "main",
+    "last_commit": "a70c5381beef38e0d4629f9569f07bffe480e028",
+    "last_updated": "2026-06-23T00:09:31+02:00",
+    "active": true
+  },
+  "/Users/noamfavier/Neoware/99-archive/coast": {
+    "path": "/Users/noamfavier/Neoware/99-archive/coast",
+    "name": "coast",
+    "remote_url": "https://github.com/NoamFav/coast.git",
+    "default_branch": "main",
+    "last_commit": "bbc757ac39448b7d8ac35e11d1b504aabb1e8cbf",
+    "last_updated": "2026-06-23T00:09:31+02:00",
     "active": true
   }
 }
