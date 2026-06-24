@@ -58,7 +58,7 @@
     "remote_url": "https://github.com/NoamFav/Briz.git",
     "default_branch": "main",
     "last_commit": "03a6e56af0cb49434ccf27e472f6f5ab56a10dfb",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/GymBuddy": {
@@ -67,7 +67,7 @@
     "remote_url": "https://github.com/NoamFav/GymBuddy.git",
     "default_branch": "main",
     "last_commit": "cf9a2cc2366959f716373ffc51e4cd8ae58200e7",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Iris": {
@@ -76,7 +76,8 @@
     "remote_url": "https://github.com/NoamFav/iris",
     "default_branch": "main",
     "last_commit": "869eb01dfc6c6d493e843861425be2557f57ad33",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
+    "description": "Iris is the best programming assistant currently in construction. Built entirely in Go, C and Swift (WIP)",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/NetViz": {
@@ -85,7 +86,7 @@
     "remote_url": "https://github.com/NoamFav/NetViz.git",
     "default_branch": "main",
     "last_commit": "0814c0526fb6b900c1665b4b85058c8b4893f0d9",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Setka": {
@@ -94,7 +95,7 @@
     "remote_url": "https://github.com/NoamFav/Setka.git",
     "default_branch": "main",
     "last_commit": "c7b54f2125d633a4173183bb4628689614d36f71",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Vektor": {
@@ -103,7 +104,7 @@
     "remote_url": "https://github.com/NoamFav/Vektor.git",
     "default_branch": "main",
     "last_commit": "d61cb4ac28fde7e40c7f6d5678c12ec22bc6c379",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/Zvezda": {
@@ -112,7 +113,8 @@
     "remote_url": "https://github.com/NoamFav/Zvezda",
     "default_branch": "main",
     "last_commit": "795abd4e82bbd0642d656beea9066d6e481692b5",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
+    "description": "A comprehensive toolkit for managing multiple Git repositories with intelligent AI-powered commit messages, automatic syncing, and GitHub repository cloning.",
     "active": true
   },
   "/Users/noamfavier/Neoware/00-apps/oh-my-gosh": {
@@ -121,7 +123,7 @@
     "remote_url": "https://github.com/NoamFav/Oh-My-Gosh.git",
     "default_branch": "main",
     "last_commit": "920530f14cec2f6a5a94209cd9ff3248cf7f4c55",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:07+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/Astrotop": {
@@ -130,7 +132,7 @@
     "remote_url": "https://github.com/NoamFav/Astrotop.git",
     "default_branch": "main",
     "last_commit": "94b4fc286e0ca83f586bb9589d7c8c81bd66301a",
-    "last_updated": "2026-06-23T00:35:49+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/Derevo": {
@@ -139,7 +141,7 @@
     "remote_url": "https://github.com/NoamFav/Derevo.git",
     "default_branch": "main",
     "last_commit": "b3032d9169399eaffe714cf9ffdc1bddafa985be",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/Iskra": {
@@ -147,8 +149,8 @@
     "name": "Iskra",
     "remote_url": "https://github.com/NoamFav/Iskra",
     "default_branch": "main",
-    "last_commit": "f1fad53aecd979a74a76789a94eb222ef242f3cf",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_commit": "82da70d28ed8944c5daf54b45010bcffa7348027",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/NF-ToolBox": {
@@ -157,7 +159,7 @@
     "remote_url": "https://github.com/NoamFav/NF-ToolBox.git",
     "default_branch": "main",
     "last_commit": "b58b1ce00cfa144f41aeadb1029456cb7b2089d3",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/Puls": {
@@ -166,7 +168,7 @@
     "remote_url": "https://github.com/NoamFav/Puls.git",
     "default_branch": "main",
     "last_commit": "57cddc3fa8b54fa836c0caed0a702dc0a9819885",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/SysDash": {
@@ -175,7 +177,7 @@
     "remote_url": "https://github.com/NoamFav/SysDash.git",
     "default_branch": "main",
     "last_commit": "aeb005bba6b931eaf383bbdfcee66ecbc4cdbb2d",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/netcrawler": {
@@ -184,7 +186,7 @@
     "remote_url": "https://github.com/NoamFav/netcrawler.git",
     "default_branch": "main",
     "last_commit": "a64f89f6210b62d34dafb71f629b8d95a889854b",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/01-tools/nyancat": {
@@ -193,7 +195,8 @@
     "remote_url": "https://github.com/NoamFav/nyancat",
     "default_branch": "master",
     "last_commit": "5d7ceba43037dc11de9e45d132b9b92a3b44ad5f",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/BitVoyager": {
@@ -202,7 +205,7 @@
     "remote_url": "https://github.com/NoamFav/BitVoyager.git",
     "default_branch": "main",
     "last_commit": "dd9770c2ef3fda058ea9290034a9fec5a18966ca",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/HTML": {
@@ -211,7 +214,7 @@
     "remote_url": "https://github.com/NoamFav/HTML",
     "default_branch": "main",
     "last_commit": "4e1a8b08a0b7e493bb73562758fe0855af154852",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/NF-Software": {
@@ -220,7 +223,7 @@
     "remote_url": "https://github.com/NoamFav/NF-Software",
     "default_branch": "main",
     "last_commit": "e786571f31e2f6ef38f1ef0b8823262168bfe175",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/Oh-my-PDFs": {
@@ -229,7 +232,7 @@
     "remote_url": "https://github.com/NoamFav/Oh-my-PDFs.git",
     "default_branch": "main",
     "last_commit": "1c5c7e8d07ca722e411bce394ed35ab3ed2d2eab",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/Psycho": {
@@ -238,7 +241,7 @@
     "remote_url": "https://github.com/NoamFav/Psycho.git",
     "default_branch": "main",
     "last_commit": "d3a06db4ffe2d3971c3ade505deb727c15c3e8dc",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/Resume": {
@@ -247,7 +250,8 @@
     "remote_url": "https://github.com/NoamFav/Resume",
     "default_branch": "main",
     "last_commit": "a6db6c843d8ded093f8dfd3b50121ed719742861",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "A fully interactive personal website with project demos, language knowledge and a fully interactive blog. (under construction)",
     "active": true
   },
   "/Users/noamfavier/Neoware/02-websites/thynkly_web": {
@@ -256,7 +260,7 @@
     "remote_url": "https://github.com/NoamFav/thynkly_web.git",
     "default_branch": "main",
     "last_commit": "3bfce50e55bcf9188d3f764687cee7d475ba0691",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/2077.nvim": {
@@ -265,7 +269,8 @@
     "remote_url": "https://github.com/NoamFav/2077.nvim.git",
     "default_branch": "master",
     "last_commit": "b6cddb23492c4dd1cbe24fa9f50ecf15fe3322e6",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "An attempt to make a Cyberpunk Color scheme for Neovim.",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/Zarya.nvim": {
@@ -274,7 +279,8 @@
     "remote_url": "https://github.com/NoamFav/Zarya.nvim",
     "default_branch": "main",
     "last_commit": "f13063b95f088e3f92bbbbed66c99e1f25842f86",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Simple plugin that allows you to control and visualize your music playing on apple music ",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/nvim-code-action-menu": {
@@ -283,7 +289,8 @@
     "remote_url": "https://github.com/NoamFav/nvim-code-action-menu.git",
     "default_branch": "main",
     "last_commit": "59708aefa4999a06e4bc1ccda3d12b012bba4740",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Pop-up menu for code actions to show meta-information and diff preview",
     "active": true
   },
   "/Users/noamfavier/Neoware/03-editor-plugins/tokyonight.nvim": {
@@ -292,7 +299,8 @@
     "remote_url": "https://github.com/NoamFav/tokyonight.nvim.git",
     "default_branch": "main",
     "last_commit": "2e4b7d3f22841d6067f33abadc4a1f4f10c0f2a8",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
     "active": true
   },
   "/Users/noamfavier/Neoware/04-games/Frisia": {
@@ -301,7 +309,8 @@
     "remote_url": "https://github.com/NoamFav/Frisia.git",
     "default_branch": "main",
     "last_commit": "dac4baee2d8a69e9ec5f160c40690b85843c6d0f",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Frisian Draughts – A modern JavaFX-based take on the classic board game, featuring smart AI, multiplayer capabilities, tutorials, and customizable themes.",
     "active": true
   },
   "/Users/noamfavier/Neoware/04-games/Pot_Pot_Golf": {
@@ -310,7 +319,8 @@
     "remote_url": "https://github.com/NoamFav/Pot_Pot_Golf.git",
     "default_branch": "main",
     "last_commit": "e52875a08c789ea1190082326c64e8b512637ea8",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Golfing game implemented in Java using a fully custom built game engine using LWJGL",
     "active": true
   },
   "/Users/noamfavier/Neoware/04-games/ShadowedHunter": {
@@ -319,7 +329,7 @@
     "remote_url": "https://github.com/NoamFav/ShadowedHunter.git",
     "default_branch": "main",
     "last_commit": "4e436210d5efd072b97b45e9972892811c5ccf4f",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/EnronBox": {
@@ -328,7 +338,8 @@
     "remote_url": "https://github.com/NoamFav/EnronBox",
     "default_branch": "main",
     "last_commit": "3cea2e0123779a6bdd3a23c995e6d5f3d7a24bdc",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "natural language processing applied",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/QueryCrust": {
@@ -337,7 +348,7 @@
     "remote_url": "https://github.com/NoamFav/QueryCrust.git",
     "default_branch": "main",
     "last_commit": "ad74d9450706537988a743bbaf9b3c6016805fc0",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/Student-Analysis": {
@@ -346,7 +357,8 @@
     "remote_url": "https://github.com/NoamFav/Student-Analysis.git",
     "default_branch": "main",
     "last_commit": "128f963fe54c779b4f2fedf15da115e10c3632fd",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
+    "description": "Data, i think",
     "active": true
   },
   "/Users/noamfavier/Neoware/05-research/collatz_conjecture": {
@@ -355,7 +367,7 @@
     "remote_url": "https://github.com/NoamFav/collatz_conjecture.git",
     "default_branch": "main",
     "last_commit": "1fac33c616a2be8a93a54d86ad84e460a362466b",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/NoamFav": {
@@ -364,7 +376,7 @@
     "remote_url": "https://github.com/NoamFav/NoamFav.git",
     "default_branch": "main",
     "last_commit": "c4e6ae218776478030e8bfd0c5ffea9dbdef5ef1",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:08+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Perso": {
@@ -373,7 +385,7 @@
     "remote_url": "https://github.com/NoamFav/Perso.git",
     "default_branch": "main",
     "last_commit": "328db4f33651cbce3aa7c9ae75a4e66d2b381032",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/PyNexus": {
@@ -382,7 +394,8 @@
     "remote_url": "https://github.com/NoamFav/PyNexus.git",
     "default_branch": "main",
     "last_commit": "7fe841c202510a38daae51ae87ca3a919be16c89",
-    "last_updated": "2026-06-23T00:35:50+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
+    "description": "App for learning python in the form of a game (deprecated for now)",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Thynkly": {
@@ -391,7 +404,7 @@
     "remote_url": "https://github.com/NoamFav/Thynkly",
     "default_branch": "main",
     "last_commit": "3b6571feddbf10ea623ceb04d5e7b259fa834ce7",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/Yadro": {
@@ -400,7 +413,7 @@
     "remote_url": "https://github.com/NoamFav/Yadro",
     "default_branch": "main",
     "last_commit": "7b6f68c4d06977e1bdfabb8b209c499c94d7cb20",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/07-experiments/arduino": {
@@ -409,7 +422,7 @@
     "remote_url": "https://github.com/NoamFav/arduino",
     "default_branch": "main",
     "last_commit": "5668bd8a71008afacbd2b3c66ab564de4baccafe",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/08-personal/GetaJob101": {
@@ -418,7 +431,7 @@
     "remote_url": "https://github.com/NoamFav/GetaJob101.git",
     "default_branch": "main",
     "last_commit": "201ea07e7efb235eec24d99cdca9895ff318bfe0",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/08-personal/Republic-of-the-triad": {
@@ -427,7 +440,7 @@
     "remote_url": "https://github.com/NoamFav/Republic-of-the-triad.git",
     "default_branch": "main",
     "last_commit": "333a89852105949d23c9bf2ebe622962454d6c9f",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/99-archive/FD-Server": {
@@ -436,7 +449,7 @@
     "remote_url": "https://github.com/NoamFav/FD-Server.git",
     "default_branch": "main",
     "last_commit": "e7c2c86b7da618ba3802e8785f48333569ef0e06",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/99-archive/Laundry": {
@@ -445,7 +458,7 @@
     "remote_url": "https://github.com/NoamFav/Laundry.git",
     "default_branch": "main",
     "last_commit": "a70c5381beef38e0d4629f9569f07bffe480e028",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   },
   "/Users/noamfavier/Neoware/99-archive/coast": {
@@ -454,7 +467,7 @@
     "remote_url": "https://github.com/NoamFav/coast.git",
     "default_branch": "main",
     "last_commit": "bbc757ac39448b7d8ac35e11d1b504aabb1e8cbf",
-    "last_updated": "2026-06-23T00:35:51+02:00",
+    "last_updated": "2026-06-23T00:50:09+02:00",
     "active": true
   }
 }
