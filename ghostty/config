@@ -1,25 +1,122 @@
-palette = 0=#15161e
-palette = 1=#f7768e
-palette = 2=#9ece6a
-palette = 3=#e0af68
-palette = 4=#7aa2f7
-palette = 5=#bb9af7
-palette = 6=#7dcfff
-palette = 7=#a9b1d6
-palette = 8=#414868
-palette = 9=#f7768e
-palette = 10=#9ece6a
-palette = 11=#e0af68
-palette = 12=#7aa2f7
-palette = 13=#bb9af7
-palette = 14=#7dcfff
-palette = 15=#c0caf5
-background = #1a1b26
-foreground = #c0caf5
-cursor-color = #c0caf5
-cursor-text = #15161e
-selection-background = #33467c
-selection-foreground = #c0caf5
-background-opacity = 0.7
-keybind = global:cmd+\=toggle_quick_terminal
-quick-terminal-animation-duration = 0.1
+
+# ~/.config/ghostty/config
+# Ported from iTerm2 "Default" profile
+
+# ---- Font ----
+# Verify exact installed names with: ghostty +list-fonts | grep -i victor
+font-family = "VictorMono Nerd Font Mono"
+font-style = Bold
+font-size = 14
+
+# Fallback for glyphs VictorMono doesn't cover (icons, symbols, etc.)
+# iTerm2 used a separate 19pt Fira Code for this. Ghostty can't scale
+# fallback fonts independently of the primary size, so this renders
+# at 14pt like everything else. If specific icons look too small,
+# use font-codepoint-map for just those ranges instead.
+font-family = "FiraCode Nerd Font Mono"
+
+font-feature = calt
+font-feature = liga
+
+# ---- Theme ----
+# Your iTerm2 dark colors (bg #1a1b26, fg #c0caf5, ansi red #f7768e, etc.)
+# are Tokyo Night almost exactly. Using the built-in theme instead of
+# hand-copying 40+ color keys.
+theme = TokyoNight
+
+# Two values that differed slightly from the stock theme in your profile:
+selection-background = 283457
+selection-foreground = c0caf5
+
+# Your profile had "Use Separate Colors for Light/Dark Mode" on, but the
+# light and dark values were identical — so a single theme (not
+# light:X,dark:Y) reproduces that correctly.
+
+# ---- Window ----
+window-width = 80
+window-height = 25
+background-opacity = 0.70
+background-blur-radius = 0
+
+# ---- Cursor ----
+cursor-style = block
+cursor-style-blink = false
+
+# ---- Behavior ----
+confirm-close-surface = false
+scrollback-limit = 100000000
+# Note: your profile had "Unlimited Scrollback" on. Ghostty doesn't support
+# true unlimited scrollback yet (confirmed in their own docs — it's a
+# planned future feature). This sets a large safe value instead
+# (~100MB, which in practice is tens of thousands of lines).
+
+# ---- Shell integration (wasn't in the iTerm2 profile, but worth having) ----
+shell-integration = zsh
+shell-integration-features = cursor,sudo,title
+
+# ---- Command-finish notifications ----
+# Get pinged when a slow compile / moulinette run finishes while you've
+# switched to another window. Only fires if unfocused and the command
+# ran longer than the threshold below.
+notify-on-command-finish = unfocused
+notify-on-command-finish-action = bell,notify
+notify-on-command-finish-after = 15s
+
+# ---- Splits ----
+keybind = cmd+d=new_split:right
+keybind = cmd+shift+d=new_split:down
+keybind = cmd+alt+left=goto_split:left
+keybind = cmd+alt+right=goto_split:right
+keybind = cmd+alt+up=goto_split:top
+keybind = cmd+alt+down=goto_split:bottom
+keybind = cmd+shift+z=toggle_split_zoom
+keybind = cmd+shift+equal=equalize_splits
+
+# ---- Tab navigation ----
+keybind = cmd+shift+left_bracket=previous_tab
+keybind = cmd+shift+right_bracket=next_tab
+
+# ---- Leader-key workflow (tmux-style, optional) ----
+# Press ctrl+a, release, then press the next key within it
+keybind = ctrl+a>c=new_tab
+keybind = ctrl+a>x=close_surface
+keybind = ctrl+a>z=toggle_split_zoom
+keybind = ctrl+a>r=reload_config
+
+# ---- Macros: send literal commands on a keypress ----
+# Adjust these to whatever you actually run constantly during the Piscine.
+# \n at the end auto-submits the command.
+keybind = cmd+shift+m=text:"make re && ./a.out\n"
+keybind = cmd+shift+r=text:"norminette *.c *.h\n"
+keybind = cmd+shift+l=text:"clear\n"
+keybind = cmd+shift+g=text:"git status\n"
+
+# ---- Visual polish (Tokyo Night divider/split colors) ----
+split-divider-color = 414868
+unfocused-split-fill = 1a1b26
+window-padding-x = 10
+window-padding-y = 10
+
+# ---- Quality of life ----
+window-save-state = always
+mouse-hide-while-typing = true
+copy-on-select = clipboard
+
+# ---- Built in, no config needed — just muscle memory ----
+# cmd+shift+p  -> command palette (fuzzy search every action Ghostty has)
+# cmd+f        -> search scrollback
+# cmd+shift+, -> reload config after editing this file
+
+# ---- Custom shader: neon cursor trail ----
+# First clone the shader repo:
+#   git clone https://github.com/sahaj-b/ghostty-cursor-shaders ~/.config/ghostty/shaders
+# The trail automatically uses your cursor-color (c0caf5) and the theme's
+# background, so it's already tinted correctly — no extra tuning needed.
+custom-shader = ~/.config/ghostty/shaders/cursor_warp.glsl
+custom-shader-animation = always
+
+# Want more than a cursor trail? A subtle CRT glow (amber/green/blue phosphor
+# variants) is available from the same author's other repo:
+#   git clone https://github.com/thijskok/ghostty-shaders ~/.config/ghostty/shaders/crt
+# custom-shader = ~/.config/ghostty/shaders/crt/blue-crt.glsl
+# Layering both is fine — shaders apply in the order listed.
