@@ -6,7 +6,7 @@
 # Verify exact installed names with: ghostty +list-fonts | grep -i victor
 font-family = "VictorMono Nerd Font Mono"
 font-style = Bold
-font-size = 14
+font-size = 16
 
 # Fallback for glyphs VictorMono doesn't cover (icons, symbols, etc.)
 # iTerm2 used a separate 19pt Fira Code for this. Ghostty can't scale
