@@ -11,3 +11,11 @@
 [submodule "aerospace"]
 	path = aerospace
 	url = https://github.com/NoamFav/aerospace
+
+[submodule "ghostty/shaders"]
+	path = ghostty/shaders
+	url = https://github.com/sahaj-b/ghostty-cursor-shaders
+
+[submodule "yazi/flavors/tokyo-night.yazi"]
+	path = yazi/flavors/tokyo-night.yazi
+	url = https://github.com/BennyOe/tokyo-night.yazi.git

@@ -33,9 +33,8 @@ My personal macOS setup — every tool config, symlinked from one place, bootstr
 
 #### Editor & Shell
 - **nvim** — editor config
-- **zsh** · **oh-my-posh** — shell + prompt
+- **zsh** · **oh-my-posh** — shell + prompt (oh-my-posh config lives under `zsh/`)
 - **atuin** — synced shell history
-- **thefuck** — command correction
 
 </td>
 <td width="50%" valign="top">
@@ -43,7 +42,6 @@ My personal macOS setup — every tool config, symlinked from one place, bootstr
 #### Window & System
 - **aerospace** — tiling window manager
 - **sketchybar** — status bar
-- **karabiner** — keyboard remapping
 - **btop** · **fastfetch** — system monitoring
 
 </td>
@@ -60,7 +58,7 @@ My personal macOS setup — every tool config, symlinked from one place, bootstr
 <td width="50%" valign="top">
 
 #### Misc
-- **iskra**, **script**, **vercel-plugin** — personal tooling glue
+- **iskra**, **script** — personal tooling glue
 - **tokyo_night.json** — shared theme definition
 - **dictionaries**, **spell** — spellcheck word lists
 
