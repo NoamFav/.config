@@ -1,0 +1,827 @@
+colourful: true
+
+filekinds:
+  normal: { foreground: "#c0caf5" }
+  directory: { foreground: "#7aa2f7" }
+  symlink: { foreground: "#2ac3de" }
+  pipe: { foreground: "#414868" }
+  block_device: { foreground: "#e0af68" }
+  char_device: { foreground: "#e0af68" }
+  socket: { foreground: "#414868" }
+  special: { foreground: "#9d7cd8" }
+  executable: { foreground: "#9ece6a" }
+  mount_point: { foreground: "#b4f9f8" }
+
+perms:
+  user_read: { foreground: "#2ac3de" }
+  user_write: { foreground: "#bb9af7" }
+  user_execute_file: { foreground: "#9ece6a" }
+  user_execute_other: { foreground: "#9ece6a" }
+  group_read: { foreground: "#2ac3de" }
+  group_write: { foreground: "#ff9e64" }
+  group_execute: { foreground: "#9ece6a" }
+  other_read: { foreground: "#2ac3de" }
+  other_write: { foreground: "#ff007c" }
+  other_execute: { foreground: "#9ece6a" }
+  special_user_file: { foreground: "#ff007c" }
+  special_other: { foreground: "#db4b4b" }
+  attribute: { foreground: "#737aa2" }
+
+size:
+  major: { foreground: "#2ac3de" }
+  minor: { foreground: "#9d7cd8" }
+  number_byte: { foreground: "#a9b1d6" }
+  number_kilo: { foreground: "#89ddff" }
+  number_mega: { foreground: "#2ac3de" }
+  number_giga: { foreground: "#ff9e64" }
+  number_huge: { foreground: "#ff007c" }
+  unit_byte: { foreground: "#a9b1d6" }
+  unit_kilo: { foreground: "#89ddff" }
+  unit_mega: { foreground: "#2ac3de" }
+  unit_giga: { foreground: "#ff9e64" }
+  unit_huge: { foreground: "#ff007c" }
+
+users:
+  user_you: { foreground: "#3d59a1" }
+  user_root: { foreground: "#bb9af7" }
+  user_other: { foreground: "#2ac3de" }
+  group_yours: { foreground: "#89ddff" }
+  group_root: { foreground: "#bb9af7" }
+  group_other: { foreground: "#c0caf5" }
+
+links:
+  normal: { foreground: "#89ddff" }
+  multi_link_file: { foreground: "#2ac3de" }
+
+git:
+  new: { foreground: "#9ece6a" }
+  modified: { foreground: "#bb9af7" }
+  deleted: { foreground: "#db4b4b" }
+  renamed: { foreground: "#2ac3de" }
+  typechange: { foreground: "#2ac3de" }
+  ignored: { foreground: "#545c7e" }
+  conflicted: { foreground: "#ff9e64" }
+
+git_repo:
+  branch_main: { foreground: "#737aa2" }
+  branch_other: { foreground: "#b4f9f8" }
+  git_clean: { foreground: "#292e42" }
+  git_dirty: { foreground: "#bb9af7" }
+
+security_context:
+  colon: { foreground: "#545c7e" }
+  user: { foreground: "#737aa2" }
+  role: { foreground: "#2ac3de" }
+  typ: { foreground: "#3d59a1" }
+  range: { foreground: "#9d7cd8" }
+
+file_type:
+  image: { foreground: "#89ddff" }
+  video: { foreground: "#b4f9f8" }
+  music: { foreground: "#73daca" }
+  lossless: { foreground: "#41a6b5" }
+  crypto: { foreground: "#db4b4b" }
+  document: { foreground: "#a9b1d6" }
+  compressed: { foreground: "#ff9e64" }
+  temp: { foreground: "#737aa2" }
+  compiled: { foreground: "#737aa2" }
+  build: { foreground: "#1abc9c" }
+  source: { foreground: "#bb9af7" }
+
+punctuation: { foreground: "#414868" }
+date: { foreground: "#e0af68" }
+inode: { foreground: "#737aa2" }
+blocks: { foreground: "#737aa2" }
+header: { foreground: "#a9b1d6" }
+octal: { foreground: "#ff9e64" }
+flags: { foreground: "#9d7cd8" }
+
+symlink_path: { foreground: "#89ddff" }
+control_char: { foreground: "#ff9e64" }
+broken_symlink: { foreground: "#ff007c" }
+broken_path_overlay: { foreground: "#ff007c" }
+
+filenames:
+  "Dockerfile":
+    filename:
+      foreground: "#2ac3de"
+    icon:
+      style:
+        foreground: "#2ac3de"
+  "Makefile":
+    filename:
+      foreground: "#737aa2"
+    icon:
+      style:
+        foreground: "#737aa2"
+  "Gemfile":
+    filename:
+      foreground: "#db4b4b"
+    icon:
+      style:
+        foreground: "#db4b4b"
+  "nvim":
+    icon:
+      glyph: ""
+  "zsh":
+    icon:
+      glyph: ""
+  "sketchybar":
+    icon:
+      glyph: ""
+  "aerospace":
+    icon:
+      glyph: ""
+  "ghostty":
+    icon:
+      glyph: ""
+  "git":
+    icon:
+      glyph: ""
+  "kitty":
+    icon:
+      glyph: "󰄛"
+  "gh":
+    icon:
+      glyph: ""
+  "gh-dash":
+    icon:
+      glyph: ""
+  "script":
+    icon:
+      glyph: "󰯂"
+  "yazi":
+    icon:
+      glyph: "󱏒"
+  "iterm2":
+    icon:
+      glyph: ""
+  "dictionaries":
+    icon:
+      glyph: ""
+  "coc":
+    icon:
+      glyph: ""
+  "btop":
+    icon:
+      glyph: "󰡃"
+  "atuin":
+    icon:
+      glyph: ""
+  "eza":
+    icon:
+      glyph: "󱉯"
+  "fastfetch":
+    icon:
+      glyph: ""
+  "iskra":
+    icon:
+      glyph: ""
+  "spell":
+    icon:
+      glyph: ""
+  "shell-color-scripts":
+    icon:
+      glyph: "󰌁"
+  "Applications":
+    icon:
+      glyph: ""
+  "Library":
+    icon:
+      glyph: ""
+  "Neoware":
+    icon:
+      glyph: ""
+  "Public":
+    icon:
+      glyph: "󱔟"
+  "go":
+    icon:
+      glyph: ""
+  "00-apps":
+    icon:
+      glyph: "󰀻"
+  "01-tools":
+    icon:
+      glyph: ""
+  "02-websites":
+    icon:
+      glyph: "󰖟"
+  "03-editor-plugins":
+    icon:
+      glyph: ""
+  "04-games":
+    icon:
+      glyph: "󰺵"
+  "05-research":
+    icon:
+      glyph: ""
+  "06-configs":
+    icon:
+      glyph: ""
+  "07-experiments":
+    icon:
+      glyph: "󰙨"
+  "08-personal":
+    icon:
+      glyph: "󰸐"
+  "99-archive":
+    icon:
+      glyph: ""
+  "2077.nvim":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#bb9af7"
+  "42-boot":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#9ece6a"
+  "arduino":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#1abc9c"
+  "Astrotop":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "BitVoyager":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "Briz":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "coast":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "collatz_conjecture":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "Companion":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "Derevo":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "EnronBox":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "FD-Server":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#f7768e"
+  "Frisia":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#f7768e"
+  "GetaJob101":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#9ece6a"
+  "GymBuddy":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "HTML":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "Iris":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "Iskra":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "Laundry":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "netcrawler":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#9ece6a"
+  "NetViz":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "NF-Software":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "NF-ToolBox":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "nvim-code-action-menu":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#bb9af7"
+  "nyancat":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#3d59a1"
+  "oh-my-gosh":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#3d59a1"
+  "Oh-my-PDFs":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "Perso":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "Pot_Pot_Golf":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#f7768e"
+  "project-netrunner":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "Psycho":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "Puls":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#3d59a1"
+  "PyNexus":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "QueryCrust":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "Republic-of-the-triad":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#737aa2"
+  "Resume":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "Setka":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "ShadowedHunter":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#f7768e"
+  "Student-Analysis":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#f7768e"
+  "SysDash":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "Thynkly":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "thynkly_web":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#e0af68"
+  "tokyonight.nvim":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#bb9af7"
+  "Vektor":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#ff9e64"
+  "Yadro":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+  "Zarya.nvim":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#bb9af7"
+  "Zvezda":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#2ac3de"
+
+extensions:
+  "go":
+    filename:
+      foreground: "#2ac3de"
+    icon:
+      style:
+        foreground: "#2ac3de"
+  "rs":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "c":
+    filename:
+      foreground: "#3d59a1"
+    icon:
+      style:
+        foreground: "#3d59a1"
+  "cpp":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "sh":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "zsh":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "ts":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "js":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "java":
+    filename:
+      foreground: "#f7768e"
+    icon:
+      style:
+        foreground: "#f7768e"
+  "lua":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "html":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "py":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "swift":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "ino":
+    filename:
+      foreground: "#1abc9c"
+    icon:
+      style:
+        foreground: "#1abc9c"
+  "md":
+    filename:
+      foreground: "#737aa2"
+    icon:
+      style:
+        foreground: "#737aa2"
+  "hs":
+    filename:
+      foreground: "#9d7cd8"
+    icon:
+      style:
+        foreground: "#9d7cd8"
+  "ml":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "ex":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "fnl":
+    filename:
+      foreground: "#2ac3de"
+    icon:
+      style:
+        foreground: "#2ac3de"
+  "rb":
+    filename:
+      foreground: "#db4b4b"
+    icon:
+      style:
+        foreground: "#db4b4b"
+  "php":
+    filename:
+      foreground: "#9d7cd8"
+    icon:
+      style:
+        foreground: "#9d7cd8"
+  "cs":
+    filename:
+      foreground: "#9d7cd8"
+    icon:
+      style:
+        foreground: "#9d7cd8"
+  "d":
+    filename:
+      foreground: "#db4b4b"
+    icon:
+      style:
+        foreground: "#db4b4b"
+  "f90":
+    filename:
+      foreground: "#9d7cd8"
+    icon:
+      style:
+        foreground: "#9d7cd8"
+  "fs":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "gleam":
+    filename:
+      foreground: "#f7768e"
+    icon:
+      style:
+        foreground: "#f7768e"
+  "groovy":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "hc":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "kt":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "nim":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "pl":
+    filename:
+      foreground: "#3d59a1"
+    icon:
+      style:
+        foreground: "#3d59a1"
+  "r":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "scm":
+    filename:
+      foreground: "#db4b4b"
+    icon:
+      style:
+        foreground: "#db4b4b"
+  "sass":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "styl":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "sv":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "v":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "tex":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "asm":
+    filename:
+      foreground: "#737aa2"
+    icon:
+      style:
+        foreground: "#737aa2"
+  "clj":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "cljs":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "coffee":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "dart":
+    filename:
+      foreground: "#2ac3de"
+    icon:
+      style:
+        foreground: "#2ac3de"
+  "elm":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "erl":
+    filename:
+      foreground: "#db4b4b"
+    icon:
+      style:
+        foreground: "#db4b4b"
+  "jl":
+    filename:
+      foreground: "#9d7cd8"
+    icon:
+      style:
+        foreground: "#9d7cd8"
+  "nix":
+    filename:
+      foreground: "#2ac3de"
+    icon:
+      style:
+        foreground: "#2ac3de"
+  "zig":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "vue":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "svelte":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "twig":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "yml":
+    filename:
+      foreground: "#f7768e"
+    icon:
+      style:
+        foreground: "#f7768e"
+  "json":
+    filename:
+      foreground: "#e0af68"
+    icon:
+      style:
+        foreground: "#e0af68"
+  "toml":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "xml":
+    filename:
+      foreground: "#ff9e64"
+    icon:
+      style:
+        foreground: "#ff9e64"
+  "sql":
+    filename:
+      foreground: "#7aa2f7"
+    icon:
+      style:
+        foreground: "#7aa2f7"
+  "graphql":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
+  "vim":
+    filename:
+      foreground: "#9ece6a"
+    icon:
+      style:
+        foreground: "#9ece6a"
+  "ps1":
+    filename:
+      foreground: "#3d59a1"
+    icon:
+      style:
+        foreground: "#3d59a1"
+  "tf":
+    filename:
+      foreground: "#bb9af7"
+    icon:
+      style:
+        foreground: "#bb9af7"
