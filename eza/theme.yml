@@ -433,11 +433,26 @@ filenames:
       glyph: ""
       style:
         foreground: "#7aa2f7"
-  "thynkly_web":
+  "minette":
     icon:
-      glyph: ""
+      glyph: ""
       style:
-        foreground: "#e0af68"
+        foreground: "#7aa2f7"
+  "Leetcode":
+    icon:
+      glyph: "󱀫"
+      style:
+        foreground: "#2ac3de"
+  "C-42":
+    icon:
+      glyph: ""
+      style:
+        foreground: "#7aa2f7"
+  "NoamFav":
+    icon:
+      glyph: "󰍔"
+      style:
+        foreground: "#737aa2"
   "tokyonight.nvim":
     icon:
       glyph: ""
