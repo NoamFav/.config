@@ -1,42 +1,29 @@
-
-# ~/.config/ghostty/config
+# ~/.config/ghostty/config.ghostty
 # Ported from iTerm2 "Default" profile
 
 # ---- Font ----
-# Verify exact installed names with: ghostty +list-fonts | grep -i victor
 font-family = "VictorMono Nerd Font Mono"
 font-style = Bold
 font-size = 18
-
-# Fallback for glyphs VictorMono doesn't cover (icons, symbols, etc.)
-# iTerm2 used a separate 19pt Fira Code for this. Ghostty can't scale
-# fallback fonts independently of the primary size, so this renders
-# at 14pt like everything else. If specific icons look too small,
-# use font-codepoint-map for just those ranges instead.
 font-family = "FiraCode Nerd Font Mono"
-
 font-feature = calt
 font-feature = liga
 
-# ---- Theme ----
-# Your iTerm2 dark colors (bg #1a1b26, fg #c0caf5, ansi red #f7768e, etc.)
-# are Tokyo Night almost exactly. Using the built-in theme instead of
-# hand-copying 40+ color keys.
-theme = TokyoNight
+# Note: with font-style = Bold, bold text has nowhere left to go.
+# If you want the distinction back, uncomment and pick a heavier face:
+# font-style-bold = "ExtraBold"
 
-# Two values that differed slightly from the stock theme in your profile:
+# ---- Theme ----
+theme = TokyoNight
 selection-background = 283457
 selection-foreground = c0caf5
-
-# Your profile had "Use Separate Colors for Light/Dark Mode" on, but the
-# light and dark values were identical — so a single theme (not
-# light:X,dark:Y) reproduces that correctly.
 
 # ---- Window ----
 window-width = 80
 window-height = 25
 background-opacity = 0.70
-background-blur-radius = 0
+window-padding-x = 10
+window-padding-y = 10
 
 # ---- Cursor ----
 cursor-style = block
@@ -45,19 +32,12 @@ cursor-style-blink = false
 # ---- Behavior ----
 confirm-close-surface = false
 scrollback-limit = 100000000
-# Note: your profile had "Unlimited Scrollback" on. Ghostty doesn't support
-# true unlimited scrollback yet (confirmed in their own docs — it's a
-# planned future feature). This sets a large safe value instead
-# (~100MB, which in practice is tens of thousands of lines).
 
-# ---- Shell integration (wasn't in the iTerm2 profile, but worth having) ----
+# ---- Shell integration ----
 shell-integration = zsh
 shell-integration-features = cursor,sudo,title
 
-# ---- Command-finish notifications ----
-# Get pinged when a slow compile / moulinette run finishes while you've
-# switched to another window. Only fires if unfocused and the command
-# ran longer than the threshold below.
+# ---- Command-finish notifications (requires Ghostty 1.3.0+) ----
 notify-on-command-finish = unfocused
 notify-on-command-finish-action = bell,notify
 notify-on-command-finish-after = 15s
@@ -67,6 +47,8 @@ keybind = cmd+d=new_split:right
 keybind = cmd+shift+d=new_split:down
 keybind = cmd+alt+left=goto_split:left
 keybind = cmd+alt+right=goto_split:right
+# Verify these two against: ghostty +list-actions | grep goto_split
+# They may need to be up/down rather than top/bottom.
 keybind = cmd+alt+up=goto_split:top
 keybind = cmd+alt+down=goto_split:bottom
 keybind = cmd+shift+z=toggle_split_zoom
@@ -76,47 +58,44 @@ keybind = cmd+shift+equal=equalize_splits
 keybind = cmd+shift+left_bracket=previous_tab
 keybind = cmd+shift+right_bracket=next_tab
 
-# ---- Leader-key workflow (tmux-style, optional) ----
-# Press ctrl+a, release, then press the next key within it
-keybind = ctrl+a>c=new_tab
-keybind = ctrl+a>x=close_surface
-keybind = ctrl+a>z=toggle_split_zoom
-keybind = ctrl+a>r=reload_config
+# ---- Leader-key workflow ----
+# Moved off ctrl+a: as a sequence prefix it swallows beginning-of-line
+# in zsh and waits indefinitely for the next key.
+keybind = cmd+j>c=new_tab
+keybind = cmd+j>x=close_surface
+keybind = cmd+j>z=toggle_split_zoom
+keybind = cmd+j>r=reload_config
 
 # ---- Macros: send literal commands on a keypress ----
-# Adjust these to whatever you actually run constantly during the Piscine.
-# \n at the end auto-submits the command.
-keybind = cmd+shift+m=text:"make re && ./a.out\n"
-keybind = cmd+shift+r=text:"norminette *.c *.h\n"
-keybind = cmd+shift+l=text:"clear\n"
-keybind = cmd+shift+g=text:"git status\n"
+# No quotes around the parameter. Spaces are fine as-is.
+# A literal = in the text will break the parser.
+keybind = cmd+shift+m=text:make re && ./a.out\n
+keybind = cmd+shift+r=text:norminette *.c *.h\n
+keybind = cmd+shift+l=text:clear\n
+keybind = cmd+shift+g=text:git status\n
 
-# ---- Visual polish (Tokyo Night divider/split colors) ----
+# ---- Quick Terminal ----
+# cmd+grave is taken by macOS ("Move focus to next window"), hence ctrl.
+keybind = global:ctrl+`=toggle_quick_terminal
+quick-terminal-position = top
+quick-terminal-size = 50%
+quick-terminal-screen = main
+quick-terminal-autohide = true
+quick-terminal-animation-duration = 0.15
+quick-terminal-space-behavior = move
+
+# ---- Visual polish ----
 split-divider-color = 414868
 unfocused-split-fill = 1a1b26
-window-padding-x = 10
-window-padding-y = 10
 
 # ---- Quality of life ----
+# If quick-terminal-size ever seems to be ignored, this is the culprit:
+# a cached window frame wins over the config. Set to never to rule it out.
 window-save-state = always
 mouse-hide-while-typing = true
 copy-on-select = clipboard
 
-# ---- Built in, no config needed — just muscle memory ----
-# cmd+shift+p  -> command palette (fuzzy search every action Ghostty has)
-# cmd+f        -> search scrollback
-# cmd+shift+, -> reload config after editing this file
-
-# ---- Custom shader: neon cursor trail ----
-# First clone the shader repo:
-#   git clone https://github.com/sahaj-b/ghostty-cursor-shaders ~/.config/ghostty/shaders
-# The trail automatically uses your cursor-color (c0caf5) and the theme's
-# background, so it's already tinted correctly — no extra tuning needed.
-custom-shader = ~/.config/ghostty/shaders/cursor_warp.glsl
+# ---- Custom shader ----
+# Relative paths resolve against this file's directory.
+custom-shader = shaders/cursor_warp.glsl
 custom-shader-animation = always
-
-# Want more than a cursor trail? A subtle CRT glow (amber/green/blue phosphor
-# variants) is available from the same author's other repo:
-#   git clone https://github.com/thijskok/ghostty-shaders ~/.config/ghostty/shaders/crt
-# custom-shader = ~/.config/ghostty/shaders/crt/blue-crt.glsl
-# Layering both is fine — shaders apply in the order listed.
