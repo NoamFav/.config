@@ -4,7 +4,7 @@
 # ---- Font ----
 font-family = "VictorMono Nerd Font Mono"
 font-style = Bold
-font-size = 18
+font-size = 16
 font-family = "FiraCode Nerd Font Mono"
 font-feature = calt
 font-feature = liga
