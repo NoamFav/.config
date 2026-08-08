@@ -18,6 +18,7 @@ auto_push: true
 use_ai_commit: true
 commit_message_style: conventional
 ai_provider: ollama
+ollama_model: gemma
 require_confirmation: false
 require_confirmation_for_protected: true
 dry_run: false
