@@ -19,6 +19,8 @@ theme = TokyoNight
 # see config-file include near the bottom of this file.
 
 # ---- Window ----
+macos-titlebar-style = hidden
+
 window-width = 80
 window-height = 25
 background-opacity = 0.70
