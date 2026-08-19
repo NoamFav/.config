@@ -1,0 +1,11 @@
+gh-dash/
+gh/
+git/
+iterm2/
+shell-color-scripts/
+.DS_store
+**/.git
+
+music/
+btop/
+dictionaries
