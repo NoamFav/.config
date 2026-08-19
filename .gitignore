@@ -10,3 +10,9 @@ music/
 btop/
 dictionaries/
 spell/
+
+*.bak
+*.log
+*.swp
+*.swo
+*~
