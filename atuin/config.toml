@@ -1,6 +1,3 @@
-[logs]
-dir = "/Users/noamfavier/.logs/atuin"
-
 ## where to store your database, default is your system data directory
 ## linux/mac: ~/.local/share/atuin/history.db
 ## windows: %USERPROFILE%/.local/share/atuin/history.db
@@ -46,7 +43,7 @@ dir = "/Users/noamfavier/.logs/atuin"
 ## which filter mode to use by default
 ## possible values: "global", "host", "session", "session-preload", "directory", "workspace"
 ## consider using search.filters to customize the enablement and order of filter modes
-# filter_mode = "global"
+filter_mode = "global"
 
 ## With workspace filtering enabled, Atuin will filter for commands executed
 ## in any directory within a git repository tree (default: false).
@@ -68,19 +65,19 @@ dir = "/Users/noamfavier/.logs/atuin"
 
 ## which style to use
 ## possible values: auto, full, compact
-# style = "auto"
+style = "compact"
 
 ## the maximum number of lines the interface should take up
 ## set it to 0 to always go full screen
-# inline_height = 0
+#inline_height = 20
 
 ## the maximum number of lines the interface should take up
 ## when atuin is invoked from a shell up-key binding
 ## the accepted values are identical to those of "inline_height"
-# inline_height_shell_up_key_binding = 0
+#inline_height_shell_up_key_binding = 5
 
 ## Invert the UI - put the search bar at the top , Default to `false`
-# invert = false
+# invert = true
 
 ## enable or disable showing a preview of the selected command
 ## useful when the command is longer than the terminal width and is cut off
@@ -105,7 +102,7 @@ dir = "/Users/noamfavier/.logs/atuin"
 
 ## Show numeric shortcuts (1..9) beside list items in the TUI
 ## set to false to hide the moving numbers if you find them distracting
-# show_numeric_shortcuts = true
+show_numeric_shortcuts = true
 
 ## default history list format - can also be specified with the --format arg
 # history_format = "{time}\t{command}\t{duration}"
@@ -170,7 +167,7 @@ enter_accept = true
 ## keybinding is defined.  If this is set to "emacs", "vim-insert", or
 ## "vim-normal", the startup keymap mode in the Atuin search is forced to be
 ## the specified one.
-# keymap_mode = "auto"
+keymap_mode = "vim-normal"
 
 ## Cursor style in each keymap mode.  If specified, the cursor style is changed
 ## in entering the cursor shape.  Available values are "default" and
@@ -186,6 +183,8 @@ enter_accept = true
 ## Set this to true and Atuin will minimize motion in the UI - timers will not update live, etc.
 ## Alternatively, set env NO_MOTION=true
 # prefers_reduced_motion = false
+[logs]
+dir = "/Users/noamfavier/.logs/atuin"
 
 [stats]
 ## Set commands where we should consider the subcommand for statistics. Eg, kubectl get vs just kubectl
