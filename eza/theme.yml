@@ -180,6 +180,15 @@ filenames:
   "spell":
     icon:
       glyph: ""
+  "music":
+    icon:
+      glyph: "󰝚"
+  "vercel-plugin":
+    icon:
+      glyph: ""
+  "Zen":
+    icon:
+      glyph: ""
   "shell-color-scripts":
     icon:
       glyph: "󰌁"
