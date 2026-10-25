@@ -8,7 +8,7 @@ light = "tokyo-night"
 overall = {}
 
 [mgr]
-cwd = { fg = "#934125" }
+cwd = { fg = "#e5931c" }
 
 # Find
 find_keyword = { fg = "yellow", bold = true, italic = true, underline = true }
@@ -24,36 +24,36 @@ marker_marked = { fg = "lightcyan", bg = "lightcyan" }
 marker_selected = { fg = "lightyellow", bg = "lightyellow" }
 
 # Count
-count_copied = { fg = "#d2d6e0", bg = "#1a991a" }
-count_cut = { fg = "#d2d6e0", bg = "#934125" }
-count_selected = { fg = "#020306", bg = "#998e1a" }
+count_copied = { fg = "#e0d4d2", bg = "#e5931c" }
+count_cut = { fg = "#e0d4d2", bg = "#ae2505" }
+count_selected = { fg = "#270904", bg = "#fceaa3" }
 
 # Border
 border_symbol = "│"
-border_style = { fg = "#6d6f74" }
+border_style = { fg = "#746e6d" }
 
 # Highlighting
 syntect_theme = ""
 
 [tabs]
-active = { bg = "#934125", bold = true }
-inactive = { fg = "#934125", bg = "#6d6f74" }
+active = { bg = "#e5931c", bold = true }
+inactive = { fg = "#e5931c", bg = "#746e6d" }
 
 # Separator
 sep_inner = { open = "", close = "" }
 sep_outer = { open = "", close = "" }
 
 [mode]
-normal_main = { bg = "#934125", bold = true }
-normal_alt = { fg = "#934125", bg = "#6d6f74" }
+normal_main = { bg = "#e5931c", bold = true }
+normal_alt = { fg = "#e5931c", bg = "#746e6d" }
 
 # Select mode
-select_main = { bg = "#934125", bold = true }
-select_alt = { fg = "#934125", bg = "#6d6f74" }
+select_main = { bg = "#ae2505", bold = true }
+select_alt = { fg = "#ae2505", bg = "#746e6d" }
 
 # Unset mode
-unset_main = { bg = "#934125", bold = true }
-unset_alt = { fg = "#934125", bg = "#6d6f74" }
+unset_main = { bg = "#ae2505", bold = true }
+unset_alt = { fg = "#ae2505", bg = "#746e6d" }
 
 [indicator]
 parent = { reversed = true }
