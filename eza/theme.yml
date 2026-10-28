@@ -234,6 +234,9 @@ filenames:
   "08-personal":
     icon:
       glyph: "󰸐"
+  "09-42Course":
+    icon:
+      glyph: ""
   "99-archive":
     icon:
       glyph: ""
