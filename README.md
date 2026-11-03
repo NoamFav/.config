@@ -66,7 +66,7 @@ My personal macOS setup — every tool config, symlinked from one place, bootstr
 <td width="50%" valign="top">
 
 #### Misc
-- **iskra**, **script** — personal tooling glue
+- **script** — `setup-42.sh` bootstrap
 - **tokyo_night.json** — shared theme definition
 - **dictionaries**, **spell** — spellcheck word lists
 

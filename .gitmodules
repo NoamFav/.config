@@ -13,7 +13,3 @@
 [submodule "yazi/flavors/tokyo-night.yazi"]
 	path = yazi/flavors/tokyo-night.yazi
 	url = https://github.com/BennyOe/tokyo-night.yazi.git
-
-[submodule "Zen/ZenZero"]
-	path = Zen/ZenZero
-	url = https://github.com/sameerasw/ZenZero
