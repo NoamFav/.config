@@ -16,3 +16,4 @@ spell/
 *.swo
 *~
 iskra/repos.json
+vercel-plugin/

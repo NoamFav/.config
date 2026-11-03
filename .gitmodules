@@ -1,17 +1,11 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/NoamFav/nvim-config
+	branch = 42
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/NoamFav/Zsh
-[submodule "sketchybar"]
-	path = sketchybar
-	url = https://github.com/NoamFav/sketchybar
-
-[submodule "aerospace"]
-	path = aerospace
-	url = https://github.com/NoamFav/aerospace
-
+	branch = 42
 [submodule "ghostty/shaders"]
 	path = ghostty/shaders
 	url = https://github.com/sahaj-b/ghostty-cursor-shaders

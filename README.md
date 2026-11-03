@@ -18,6 +18,14 @@
 </div>
 <br>
 
+> **`42` branch** — the Linux / no-sudo / ~5GB-home variant for the 42 cluster.
+> Slim nvim (C, Python, Lua, Bash, Docker, Rust, Go + JSON/TOML/YAML), Homebrew-free zsh,
+> no aerospace/sketchybar. Bootstrap with:
+> ```bash
+> git clone --recurse-submodules -b 42 https://github.com/NoamFav/.config ~/.config
+> bash ~/.config/script/system/setup-42.sh
+> ```
+
 My personal macOS setup — every tool config, symlinked from one place, bootstrapped by a single `Brewfile`. If I need a new machine running in ten minutes, this is how.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
